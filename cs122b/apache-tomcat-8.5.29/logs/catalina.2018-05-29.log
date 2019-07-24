@@ -1,0 +1,1067 @@
+29-May-2018 11:21:11.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+29-May-2018 11:21:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+29-May-2018 11:21:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+29-May-2018 11:21:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+29-May-2018 11:21:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.4
+29-May-2018 11:21:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+29-May-2018 11:21:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre
+29-May-2018 11:21:11.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_151-b12
+29-May-2018 11:21:11.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+29-May-2018 11:21:11.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 11:21:11.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 11:21:11.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/conf/logging.properties
+29-May-2018 11:21:11.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-May-2018 11:21:11.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+29-May-2018 11:21:11.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+29-May-2018 11:21:11.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+29-May-2018 11:21:11.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 11:21:11.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 11:21:11.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/temp
+29-May-2018 11:21:11.827 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/alvindn/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+29-May-2018 11:21:12.032 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-May-2018 11:21:12.068 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-May-2018 11:21:12.075 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 11:21:12.368 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-May-2018 11:21:12.370 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[org.apache.coyote.http11.Http11AprProtocol-8443]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[org.apache.coyote.http11.Http11AprProtocol-8443]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:632)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: The configured protocol [org.apache.coyote.http11.Http11AprProtocol] requires the APR/native library which is not available
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+
+29-May-2018 11:21:12.372 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 11:21:12.373 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-May-2018 11:21:12.373 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1158 ms
+29-May-2018 11:21:12.401 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-May-2018 11:21:12.401 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+29-May-2018 11:21:12.429 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 11:21:12.978 INFO [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = moviedb Ignoring unknown property: value of "" for "description" property
+29-May-2018 11:21:12.978 INFO [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = moviedb Ignoring unknown property: value of "" for "mappedName" property
+29-May-2018 11:21:13.037 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-May-2018 11:21:13.059 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [629] ms
+29-May-2018 11:21:13.060 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/docs]
+29-May-2018 11:21:13.074 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/docs] has finished in [14] ms
+29-May-2018 11:21:13.074 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/manager]
+29-May-2018 11:21:13.100 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/manager] has finished in [26] ms
+29-May-2018 11:21:13.100 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/examples]
+29-May-2018 11:21:13.326 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/examples] has finished in [226] ms
+29-May-2018 11:21:13.326 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/host-manager]
+29-May-2018 11:21:13.343 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/host-manager] has finished in [17] ms
+29-May-2018 11:21:13.346 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-May-2018 11:21:13.352 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 11:21:13.354 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 11:21:13.355 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 982 ms
+29-May-2018 11:26:53.846 WARNING [http-nio-8080-exec-6] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 11:26:53.847 WARNING [http-nio-8080-exec-6] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 11:26:54.373 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 11:26:54.976 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 11:27:07.056 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 11:27:07.294 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [239] ms
+29-May-2018 11:45:53.021 WARNING [http-nio-8080-exec-11] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 11:45:53.022 WARNING [http-nio-8080-exec-11] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 11:45:53.546 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 11:45:56.427 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 11:45:56.859 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 11:45:57.096 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [236] ms
+29-May-2018 12:03:29.671 WARNING [http-nio-8080-exec-21] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:03:29.673 WARNING [http-nio-8080-exec-21] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:03:30.191 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:03:32.276 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:03:35.780 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:03:36.045 INFO [http-nio-8080-exec-25] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [265] ms
+29-May-2018 12:07:59.881 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/project1] has started
+29-May-2018 12:07:59.901 WARNING [http-nio-8080-exec-31] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:07:59.902 WARNING [http-nio-8080-exec-31] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:08:00.265 INFO [http-nio-8080-exec-31] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/project1] is completed
+29-May-2018 12:08:03.791 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:08:04.829 INFO [http-nio-8080-exec-36] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:08:08.664 INFO [http-nio-8080-exec-33] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:08:08.908 INFO [http-nio-8080-exec-33] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [244] ms
+29-May-2018 12:10:00.908 WARNING [http-nio-8080-exec-41] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:10:00.909 WARNING [http-nio-8080-exec-41] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:10:01.430 INFO [http-nio-8080-exec-41] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:10:03.003 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:10:05.899 INFO [http-nio-8080-exec-43] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:10:06.152 INFO [http-nio-8080-exec-43] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [253] ms
+29-May-2018 12:12:14.294 WARNING [http-nio-8080-exec-46] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:12:14.295 WARNING [http-nio-8080-exec-46] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:12:14.815 INFO [http-nio-8080-exec-46] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:12:16.615 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:12:17.859 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:12:18.104 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [245] ms
+29-May-2018 12:20:08.053 WARNING [http-nio-8080-exec-52] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:20:08.055 WARNING [http-nio-8080-exec-52] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:20:08.578 INFO [http-nio-8080-exec-52] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:20:10.842 INFO [206] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:20:12.705 INFO [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:20:13.326 INFO [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [620] ms
+29-May-2018 12:25:07.475 WARNING [http-nio-8080-exec-62] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:25:07.477 WARNING [http-nio-8080-exec-62] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:25:08.002 INFO [http-nio-8080-exec-62] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:25:11.441 INFO [http-nio-8080-exec-63] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:25:11.626 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:25:11.627 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:25:11.628 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:25:11.629 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:25:11.694 INFO [http-nio-8080-exec-63] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [253] ms
+29-May-2018 12:30:05.387 WARNING [http-nio-8080-exec-70] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:30:05.388 WARNING [http-nio-8080-exec-70] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:30:05.907 INFO [http-nio-8080-exec-70] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:30:06.135 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:30:09.242 INFO [http-nio-8080-exec-77] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:30:09.479 INFO [http-nio-8080-exec-77] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [237] ms
+29-May-2018 12:35:19.677 WARNING [http-nio-8080-exec-78] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:35:19.680 WARNING [http-nio-8080-exec-78] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:35:20.212 INFO [http-nio-8080-exec-78] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:35:23.619 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:35:53.504 INFO [http-nio-8080-exec-85] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:35:53.770 INFO [http-nio-8080-exec-85] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [266] ms
+29-May-2018 12:44:58.911 WARNING [http-nio-8080-exec-87] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:44:58.915 WARNING [http-nio-8080-exec-87] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:44:59.436 INFO [http-nio-8080-exec-87] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:44:59.536 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:45:13.369 INFO [http-nio-8080-exec-94] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:45:13.619 INFO [http-nio-8080-exec-94] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [251] ms
+29-May-2018 12:47:39.201 WARNING [http-nio-8080-exec-97] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:47:39.202 WARNING [http-nio-8080-exec-97] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:47:39.292 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:47:39.714 INFO [http-nio-8080-exec-97] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:48:36.229 INFO [http-nio-8080-exec-98] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:48:36.425 INFO [http-nio-8080-exec-98] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [196] ms
+29-May-2018 12:53:49.746 WARNING [http-nio-8080-exec-104] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 12:53:49.748 WARNING [http-nio-8080-exec-104] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 12:53:50.010 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 12:53:50.272 INFO [http-nio-8080-exec-104] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 12:53:53.342 INFO [http-nio-8080-exec-109] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 12:53:53.562 INFO [http-nio-8080-exec-109] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [220] ms
+29-May-2018 13:02:54.231 WARNING [http-nio-8080-exec-113] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:02:54.236 WARNING [http-nio-8080-exec-113] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:02:54.758 INFO [http-nio-8080-exec-113] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:02:57.711 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:02:59.219 INFO [http-nio-8080-exec-116] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:02:59.695 INFO [http-nio-8080-exec-116] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [476] ms
+29-May-2018 13:10:39.349 WARNING [http-nio-8080-exec-123] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:10:39.351 WARNING [http-nio-8080-exec-123] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:10:39.873 INFO [http-nio-8080-exec-123] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:10:41.237 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:10:42.813 INFO [http-nio-8080-exec-132] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:10:43.131 INFO [http-nio-8080-exec-132] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [319] ms
+29-May-2018 13:20:09.936 WARNING [http-nio-8080-exec-133] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:20:09.940 WARNING [http-nio-8080-exec-133] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:20:10.413 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:20:10.475 INFO [http-nio-8080-exec-133] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:20:16.593 INFO [http-nio-8080-exec-140] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:20:16.703 SEVERE [http-nio-8080-exec-140] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/project1]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:986)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:507)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1651)
+	at sun.reflect.GeneratedMethodAccessor45.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1525)
+	at org.apache.catalina.manager.HTMLManagerServlet.upload(HTMLManagerServlet.java:285)
+	at org.apache.catalina.manager.HTMLManagerServlet.doPost(HTMLManagerServlet.java:206)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.CsrfPreventionFilter.doFilter(CsrfPreventionFilter.java:136)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:108)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:613)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalArgumentException: The servlets named [MovieSuggestion] and [SingleMovieSuggestion] are both mapped to the url-pattern [/movieSuggestion] which is not permitted
+	at org.apache.tomcat.util.descriptor.web.WebXml.addServletMappingDecoded(WebXml.java:326)
+	at org.apache.tomcat.util.descriptor.web.WebXml.addServletMapping(WebXml.java:319)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationWebServlet(ContextConfig.java:2379)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2056)
+	at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:1942)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1143)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:765)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:299)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:94)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5113)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 47 more
+
+29-May-2018 13:20:16.706 SEVERE [http-nio-8080-exec-140] org.apache.catalina.startup.HostConfig.deployWAR Error deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/project1]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:986)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:507)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1651)
+	at sun.reflect.GeneratedMethodAccessor45.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1525)
+	at org.apache.catalina.manager.HTMLManagerServlet.upload(HTMLManagerServlet.java:285)
+	at org.apache.catalina.manager.HTMLManagerServlet.doPost(HTMLManagerServlet.java:206)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.CsrfPreventionFilter.doFilter(CsrfPreventionFilter.java:136)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:108)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:613)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:20:16.709 INFO [http-nio-8080-exec-140] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [115] ms
+29-May-2018 13:20:41.002 INFO [http-nio-8080-exec-138] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:20:45.305 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:20:45.547 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [242] ms
+29-May-2018 13:28:43.669 WARNING [http-nio-8080-exec-148] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:28:43.671 WARNING [http-nio-8080-exec-148] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:28:44.193 INFO [http-nio-8080-exec-148] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:28:47.594 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:28:47.644 INFO [http-nio-8080-exec-150] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:28:47.892 INFO [http-nio-8080-exec-150] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [248] ms
+29-May-2018 13:33:07.495 WARNING [http-nio-8080-exec-157] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:33:07.498 WARNING [http-nio-8080-exec-157] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:33:08.022 INFO [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:33:09.611 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:33:10.830 INFO [http-nio-8080-exec-158] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:33:11.088 INFO [http-nio-8080-exec-158] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [257] ms
+29-May-2018 13:34:45.890 WARNING [http-nio-8080-exec-165] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:34:45.892 WARNING [http-nio-8080-exec-165] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:34:46.410 INFO [http-nio-8080-exec-165] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:34:48.778 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:34:50.102 INFO [http-nio-8080-exec-164] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:34:50.289 INFO [http-nio-8080-exec-164] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [187] ms
+29-May-2018 13:36:50.194 WARNING [http-nio-8080-exec-172] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:36:50.195 WARNING [http-nio-8080-exec-172] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:36:50.713 INFO [http-nio-8080-exec-172] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:36:51.552 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:36:53.835 INFO [http-nio-8080-exec-170] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:36:54.032 INFO [http-nio-8080-exec-170] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [196] ms
+29-May-2018 13:40:20.486 WARNING [http-nio-8080-exec-176] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:40:20.488 WARNING [http-nio-8080-exec-176] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:40:21.009 INFO [http-nio-8080-exec-176] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:40:23.375 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:40:23.957 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:40:24.209 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [252] ms
+29-May-2018 13:43:32.976 WARNING [http-nio-8080-exec-183] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:43:32.978 WARNING [http-nio-8080-exec-183] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:43:33.498 INFO [http-nio-8080-exec-183] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:43:34.091 INFO [590] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:43:36.874 INFO [http-nio-8080-exec-178] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:43:37.158 INFO [http-nio-8080-exec-178] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [284] ms
+29-May-2018 13:45:47.410 WARNING [http-nio-8080-exec-190] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:45:47.411 WARNING [http-nio-8080-exec-190] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:45:47.929 INFO [http-nio-8080-exec-190] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:45:48.129 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:45:48.436 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:45:51.095 INFO [http-nio-8080-exec-189] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:45:51.268 INFO [http-nio-8080-exec-189] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [173] ms
+29-May-2018 13:49:06.832 WARNING [http-nio-8080-exec-196] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:49:06.834 WARNING [http-nio-8080-exec-196] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:49:07.362 INFO [http-nio-8080-exec-196] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:49:09.514 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:49:10.454 INFO [http-nio-8080-exec-197] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:49:10.727 INFO [http-nio-8080-exec-197] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [272] ms
+29-May-2018 13:51:18.195 WARNING [http-nio-8080-exec-203] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 13:51:18.196 WARNING [http-nio-8080-exec-203] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 13:51:18.713 INFO [http-nio-8080-exec-203] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 13:51:21.405 INFO [646] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 13:51:22.667 INFO [http-nio-8080-exec-207] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 13:51:22.852 INFO [http-nio-8080-exec-207] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [185] ms
+29-May-2018 14:00:30.815 WARNING [http-nio-8080-exec-209] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 14:00:30.817 WARNING [http-nio-8080-exec-209] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 14:00:31.339 INFO [http-nio-8080-exec-209] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 14:00:32.190 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 14:00:34.181 INFO [http-nio-8080-exec-210] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 14:00:34.459 INFO [http-nio-8080-exec-210] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [278] ms
+29-May-2018 14:20:18.787 WARNING [http-nio-8080-exec-219] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 14:20:18.788 WARNING [http-nio-8080-exec-219] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 14:20:19.305 INFO [http-nio-8080-exec-219] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 14:20:21.901 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 14:20:22.169 INFO [http-nio-8080-exec-224] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 14:20:22.558 INFO [http-nio-8080-exec-224] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [389] ms
+29-May-2018 14:41:24.476 WARNING [http-nio-8080-exec-229] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 14:41:24.477 WARNING [http-nio-8080-exec-229] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 14:41:24.993 INFO [http-nio-8080-exec-229] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 14:41:26.272 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 14:41:28.625 INFO [http-nio-8080-exec-236] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 14:41:28.938 INFO [http-nio-8080-exec-236] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [313] ms
+29-May-2018 14:42:40.240 WARNING [http-nio-8080-exec-239] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 14:42:40.242 WARNING [http-nio-8080-exec-239] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 14:42:40.760 INFO [http-nio-8080-exec-239] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 14:42:43.261 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 14:42:43.936 INFO [http-nio-8080-exec-231] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 14:42:44.124 INFO [http-nio-8080-exec-231] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [189] ms
+29-May-2018 14:44:22.647 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+29-May-2018 14:44:22.649 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+29-May-2018 14:44:22.704 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 14:44:22.706 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-openssl-apr-8443"]
+29-May-2018 14:44:22.706 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 14:44:22.759 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+29-May-2018 14:44:22.787 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 14:44:22.787 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 14:44:22.790 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+29-May-2018 14:44:22.795 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 14:44:22.799 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 14:44:22.803 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+29-May-2018 14:44:22.803 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 14:44:22.805 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-openssl-apr-8443"]
+29-May-2018 14:44:22.806 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-openssl-apr-8443"]
+29-May-2018 14:44:22.807 WARNING [main] org.apache.catalina.util.LifecycleMBeanBase.unregister Failed to unregister MBean with name [Catalina:type=Connector,port=8443] during component destruction
+ javax.management.InstanceNotFoundException: Catalina:type=Connector,port=8443
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.getMBean(DefaultMBeanServerInterceptor.java:1095)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.exclusiveUnregisterMBean(DefaultMBeanServerInterceptor.java:427)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.unregisterMBean(DefaultMBeanServerInterceptor.java:415)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.unregisterMBean(JmxMBeanServer.java:546)
+	at org.apache.catalina.util.LifecycleMBeanBase.unregister(LifecycleMBeanBase.java:197)
+	at org.apache.catalina.util.LifecycleMBeanBase.destroyInternal(LifecycleMBeanBase.java:73)
+	at org.apache.catalina.connector.Connector.destroyInternal(Connector.java:1058)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardService.destroyInternal(StandardService.java:571)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardServer.destroyInternal(StandardServer.java:883)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:755)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:716)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:353)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:493)
+
+29-May-2018 14:44:22.808 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 14:44:24.414 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.4
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre
+29-May-2018 14:44:24.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_151-b12
+29-May-2018 14:44:24.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+29-May-2018 14:44:24.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 14:44:24.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 14:44:24.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/conf/logging.properties
+29-May-2018 14:44:24.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/temp
+29-May-2018 14:44:24.418 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/alvindn/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+29-May-2018 14:44:24.517 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-May-2018 14:44:24.541 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-May-2018 14:44:24.547 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 14:44:24.754 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-May-2018 14:44:24.756 SEVERE [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[org.apache.coyote.http11.Http11AprProtocol-8443]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[org.apache.coyote.http11.Http11AprProtocol-8443]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:632)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:655)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:309)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:492)
+Caused by: org.apache.catalina.LifecycleException: The configured protocol [org.apache.coyote.http11.Http11AprProtocol] requires the APR/native library which is not available
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+
+29-May-2018 14:44:24.756 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 14:44:24.758 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-May-2018 14:44:24.758 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 712 ms
+29-May-2018 14:44:24.777 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-May-2018 14:44:24.777 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+29-May-2018 14:44:24.804 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 14:44:25.229 INFO [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = moviedb Ignoring unknown property: value of "" for "description" property
+29-May-2018 14:44:25.230 INFO [localhost-startStop-1] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = moviedb Ignoring unknown property: value of "" for "mappedName" property
+29-May-2018 14:44:25.272 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-May-2018 14:44:25.303 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [499] ms
+29-May-2018 14:44:25.304 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/docs]
+29-May-2018 14:44:25.316 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/docs] has finished in [12] ms
+29-May-2018 14:44:25.316 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/manager]
+29-May-2018 14:44:25.346 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/manager] has finished in [30] ms
+29-May-2018 14:44:25.347 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/examples]
+29-May-2018 14:44:25.658 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/examples] has finished in [312] ms
+29-May-2018 14:44:25.658 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/host-manager]
+29-May-2018 14:44:25.679 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/host-manager] has finished in [21] ms
+29-May-2018 14:44:25.682 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-May-2018 14:44:25.688 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["https-jsse-nio-8443"]
+29-May-2018 14:44:25.689 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+29-May-2018 14:44:25.690 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 932 ms
+29-May-2018 14:44:27.677 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 14:44:31.668 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 14:44:31.877 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [209] ms
+29-May-2018 15:39:28.061 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/project1] has started
+29-May-2018 15:39:28.080 WARNING [http-nio-8080-exec-13] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 15:39:28.081 WARNING [http-nio-8080-exec-13] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 15:39:28.297 INFO [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/project1] is completed
+29-May-2018 15:39:30.586 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 15:40:58.187 INFO [http-nio-8080-exec-18] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 15:41:01.260 INFO [http-nio-8080-exec-16] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 15:41:01.617 INFO [http-nio-8080-exec-16] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [357] ms
+29-May-2018 15:42:48.245 WARNING [http-nio-8080-exec-24] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 15:42:48.247 WARNING [http-nio-8080-exec-24] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 15:42:48.764 INFO [http-nio-8080-exec-24] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 15:42:50.805 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 15:42:51.933 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 15:42:52.180 INFO [http-nio-8080-exec-23] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [246] ms
+29-May-2018 16:04:22.231 WARNING [http-nio-8080-exec-27] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 16:04:22.233 WARNING [http-nio-8080-exec-27] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 16:04:22.756 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 16:04:25.467 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 16:04:26.296 INFO [http-nio-8080-exec-28] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 16:04:26.559 INFO [http-nio-8080-exec-28] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [263] ms
+29-May-2018 16:06:33.075 WARNING [http-nio-8080-exec-37] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 16:06:33.078 WARNING [http-nio-8080-exec-37] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 16:06:33.596 INFO [http-nio-8080-exec-37] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 16:06:35.587 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 16:06:36.705 INFO [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 16:06:37.000 INFO [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [295] ms
+29-May-2018 16:10:55.586 WARNING [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 16:10:55.587 WARNING [http-nio-8080-exec-43] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 16:10:56.115 INFO [http-nio-8080-exec-43] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 16:10:56.236 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 16:11:00.177 INFO [http-nio-8080-exec-45] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 16:11:00.413 INFO [http-nio-8080-exec-45] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [235] ms
+29-May-2018 16:16:28.465 WARNING [http-nio-8080-exec-51] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-May-2018 16:16:28.466 WARNING [http-nio-8080-exec-51] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+29-May-2018 16:16:28.988 INFO [http-nio-8080-exec-51] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/project1]
+29-May-2018 16:16:31.448 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+ java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1311)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:986)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+29-May-2018 16:31:51.647 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war]
+29-May-2018 16:31:52.377 INFO [http-nio-8080-exec-60] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/project1.war] has finished in [731] ms

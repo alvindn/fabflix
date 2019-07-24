@@ -1,0 +1,38 @@
+27-May-2018 01:54:37.591 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-May-2018 01:54:37.667 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-jsse-nio-8443"]
+27-May-2018 01:54:37.723 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-openssl-apr-8443"]
+27-May-2018 01:54:37.723 INFO [Thread-6] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+27-May-2018 01:54:37.778 INFO [Thread-6] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-May-2018 01:54:37.837 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [project1] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+27-May-2018 01:54:37.838 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [project1] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+27-May-2018 01:54:37.841 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-May-2018 01:54:37.846 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-jsse-nio-8443"]
+27-May-2018 01:54:37.847 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+27-May-2018 01:54:37.849 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-May-2018 01:54:37.851 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-jsse-nio-8443"]
+27-May-2018 01:54:37.852 INFO [Thread-6] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-openssl-apr-8443"]
+27-May-2018 01:54:37.852 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-openssl-apr-8443"]
+27-May-2018 01:54:37.853 WARNING [Thread-6] org.apache.catalina.util.LifecycleMBeanBase.unregister Failed to unregister MBean with name [Catalina:type=Connector,port=8443] during component destruction
+ javax.management.InstanceNotFoundException: Catalina:type=Connector,port=8443
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.getMBean(DefaultMBeanServerInterceptor.java:1095)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.exclusiveUnregisterMBean(DefaultMBeanServerInterceptor.java:427)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.unregisterMBean(DefaultMBeanServerInterceptor.java:415)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.unregisterMBean(JmxMBeanServer.java:546)
+	at org.apache.catalina.util.LifecycleMBeanBase.unregister(LifecycleMBeanBase.java:197)
+	at org.apache.catalina.util.LifecycleMBeanBase.destroyInternal(LifecycleMBeanBase.java:73)
+	at org.apache.catalina.connector.Connector.destroyInternal(Connector.java:1058)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardService.destroyInternal(StandardService.java:571)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardServer.destroyInternal(StandardServer.java:883)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:755)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:855)
+
+27-May-2018 01:54:37.855 INFO [Thread-6] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

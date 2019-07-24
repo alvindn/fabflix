@@ -1,0 +1,40 @@
+04-Apr-2018 11:23:41.037 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+04-Apr-2018 11:23:41.042 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.1
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_151-b12
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Apr-2018 11:23:41.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+04-Apr-2018 11:23:41.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+04-Apr-2018 11:23:41.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/conf/logging.properties
+04-Apr-2018 11:23:41.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Apr-2018 11:23:41.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Apr-2018 11:23:41.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Apr-2018 11:23:41.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Apr-2018 11:23:41.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+04-Apr-2018 11:23:41.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29
+04-Apr-2018 11:23:41.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/temp
+04-Apr-2018 11:23:41.045 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/alvindn/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Apr-2018 11:23:41.246 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Apr-2018 11:23:41.295 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Apr-2018 11:23:41.302 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+04-Apr-2018 11:23:41.303 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+04-Apr-2018 11:23:41.304 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 768 ms
+04-Apr-2018 11:23:41.331 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Apr-2018 11:23:41.332 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+04-Apr-2018 11:23:41.341 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/docs]
+04-Apr-2018 11:23:41.697 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/docs] has finished in [355] ms
+04-Apr-2018 11:23:41.697 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/manager]
+04-Apr-2018 11:23:41.726 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/manager] has finished in [29] ms
+04-Apr-2018 11:23:41.726 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/examples]
+04-Apr-2018 11:23:41.956 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/examples] has finished in [230] ms
+04-Apr-2018 11:23:41.956 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/ROOT]
+04-Apr-2018 11:23:41.968 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/ROOT] has finished in [12] ms
+04-Apr-2018 11:23:41.968 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/host-manager]
+04-Apr-2018 11:23:41.981 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/alvindn/Desktop/cs122b/apache-tomcat-8.5.29/webapps/host-manager] has finished in [13] ms
+04-Apr-2018 11:23:41.983 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Apr-2018 11:23:41.989 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+04-Apr-2018 11:23:41.991 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 686 ms

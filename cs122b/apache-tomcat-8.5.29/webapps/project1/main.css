@@ -1,0 +1,225 @@
+body {
+    background: black;
+    height: 100%;
+}
+
+table {
+    border: 15px white;
+}
+
+th, td {
+    padding: 10px;
+}
+
+#header {
+    background: black;
+    overflow: hidden;
+}
+
+#top20 {
+    font-family: 'Anton', 'sans-serif';
+    color: white;
+    margin: 10px;
+    font-size: 40px;
+}
+
+.logo {
+    display: inline-block;
+    float: left;
+    background: black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+.leftMenu {
+    display: inline-block;
+    float: left;
+    background: black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+.leftMenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.leftMenu ul li {
+    display: inline-block;
+}
+
+.rightMenu {
+    display: inline-block;
+    background: black;
+    float: right;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+.rightMenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.rightMenu ul li {
+    display: inline-block;
+}
+
+.home {
+    text-decoration: none;
+    font-size: 25px;
+    transition: 0.8s ease;
+    color:red;
+}
+
+.home:hover {
+    transition: 0.8s ease;
+    color:white
+}
+
+.moviesSelect {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.moviesSelect:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.topRate {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.topRate:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.tv {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.tv:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.search {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.search:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.user {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 5px;
+}
+
+.user:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.search {
+    float: left;
+    padding-right: 40px;
+    margin-left: 10px;
+}
+
+.searchBox {
+    padding-top: 5px;
+    font-size: 10px;
+    float: top;
+}
+
+.searchButton {
+    float: top;
+    margin-top: 3px;
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+.mov {
+    font-size: 20px;
+    font-family: 'Anton', 'sans-serif';
+    color: red;
+}
+
+.yr {
+    font-size: 20px;
+    font-family: 'Anton', 'sans-serif';
+    color: red;
+}
+
+.dir {
+    font-size: 20px;
+    font-family: 'Anton', 'sans-serif';
+    color: red;
+}
+
+.rat {
+    font-size: 20px;
+    font-family: 'Anton', 'sans-serif';
+    color: red;
+}
+
+.star {
+    font-size: 20px;
+    font-family: 'Anton', 'sans-serif';
+    color: red;
+}
+
+.genre {
+    font-size: 20px;
+    font-family: 'Anton', 'sans-serif';
+    color: red;
+}
+
+.facts {
+    font-family: 'Mina', 'sans-serif';
+    color: white;
+    font-size: 20px;
+}
+
+.facts1 {
+    font-family: 'Mina', 'sans-serif';
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}

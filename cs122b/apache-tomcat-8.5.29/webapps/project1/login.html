@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Fablix</title>
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:900|
+    Raleway:500|Rubik|Philosopher:400|Inconsolata:400|Gugi:400|Muli|Anton" rel="stylesheet">
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+
+<body>
+<div id="header">
+    <div class="logo">
+        <a class="home" href="./">Fablix</a>
+    </div>
+    <div class="rightMenu">
+        <ul>
+            <li>
+                <a class="user" href="./_dashboard.html">Employee Login</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="search">
+    <form action="#" id="login_form" method="post">
+        <input type="email" class="searchBox" name="username" placeholder="example@gmail.com">
+        <input type="password" class="searchBox" name="password" placeholder="Password">
+        <button type="submit" class="searchButton">Login</button>
+        </br>
+        <div class="g-recaptcha" data-sitekey="6LfC91gUAAAAAGONtkj-ItyJ-j71fuFAMjxm6NcL"></div>
+    </form>
+<div id="login_error_message"></div>
+
+<!-- include jQuery-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- include our own JS file -->
+<script src="./login.js"></script>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Fablix</title>
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:900|
+    Raleway:500|Rubik|Philosopher:400|Inconsolata:400|Gugi:400|Muli|Anton" rel="stylesheet">
+    <!-- Using jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- include jquery autocomplete JS  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.7/jquery.autocomplete.min.js"></script>
+
+    <style>
+        input[type=button], input[type=submit], input[type=reset] {
+            background-color: white;
+            color: black;
+            border: black;
+            padding: 10px 50px;
+            text-decoration: none;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <div class="logo">
+            <a class="home" href="./">Fablix</a>
+        </div>
+        <div class="leftMenu">
+            <ul>
+                <li>
+                    <a class="moviesSelect" href="./searching">Advanced Search</a>
+                </li>
+                <li>
+                    <a class="tv" href="./browse">Browse</a>
+                </li>
+                <li>
+                    <a class="topRate" href="./movielist">Top 20 Rated</a>
+                </li>
+            </ul>
+        </div>
+        <div class="rightMenu">
+            <ul>
+                <li>
+                    <a class="user" href="./cart">Checkout</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="fulltext1">
+        <input type="text" id="autocomplete" pattern="\s*(\S\s*){3,}" title = "Please enter at least 3 alphanumeric characters" class="fulltextsearch" name="title" placeholder="Search movie..." required>
+        <input type="button" id="norm" value="Search" class="fulltextbutton">
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
+

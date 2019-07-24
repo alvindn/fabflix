@@ -1,0 +1,245 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("movies.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header {
+    background: black;
+    overflow: hidden;
+}
+
+.logo {
+    display: inline-block;
+    float: left;
+    background: black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+.leftMenu {
+    display: inline-block;
+    float: left;
+    background: black;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+.leftMenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.leftMenu ul li {
+    display: inline-block;
+}
+
+.rightMenu {
+    display: inline-block;
+    background: black;
+    float: right;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', 'sans-serif';
+}
+
+.rightMenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.rightMenu ul li {
+    display: inline-block;
+}
+
+.home {
+    text-decoration: none;
+    font-size: 25px;
+    transition: 0.8s ease;
+    color:red;
+}
+
+.home:hover {
+    transition: 0.8s ease;
+    color:white
+}
+
+.moviesSelect {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.moviesSelect:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.topRate {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.topRate:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.tv {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+}
+
+.tv:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.search:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.user {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 5px;
+}
+
+.user:hover {
+    transition: 0.8s ease;
+    color:red;
+}
+
+.search {
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    transition: 0.8s ease;
+    padding: 3px;
+    float: left;
+    padding-right: 40px;
+    margin-left: 10px;
+
+}
+
+.search1 {
+    text-decoration: none;
+    font-size: 25px;
+    color:black;
+    transition: 0.8s ease;
+    padding: 3px;
+    float: left;
+    padding-right: 40px;
+    margin-left: 10px;
+
+}
+
+.searchBox::placeholder {
+    font-size: 15px;
+}
+
+.searchBox1::placeholder {
+    font-size: 15px;
+}
+
+.searchBox {
+    padding-top: 5px;
+    font-size: 15px;
+    float: top;
+    height: 30px;
+    width: 150px;
+}
+
+.searchBox1 {
+    padding-top: 5px;
+    font-size: 15px;
+    float: top;
+    height: 30px;
+    width: 150px;
+}
+
+.searchButton {
+    float: top;
+    margin-top: 3px;
+    font-size: 15px;
+    padding-top: 5px;
+    height: 30px;
+    width: 120px;
+}
+
+.SelectOption {
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+}
+
+.fulltextsearch {
+    font-size: 40px;
+    height: 45px;
+    width: 350px;
+}
+
+.fulltextsearch::placeholder {
+    font-size: 40px;
+}
+
+/*.fulltextbutton {*/
+    /*font-size: 25px;*/
+    /*height: 40px;*/
+    /*width: 150px;*/
+/*}*/
+
+/*#norm {*/
+    /*font-size: 25px;*/
+    /*height: 40px;*/
+    /*width: 150px;*/
+/*}*/
+
+.fulltext1 {
+    position: absolute;
+    margin: 0 auto;
+    top: 38%;
+    font-size: 40px;
+    color:black;
+    transition: 0.8s ease;
+    width: 100%;
+    text-align:center;
+
+}
+
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+.autocomplete-group { padding: 2px 5px; }
+.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }

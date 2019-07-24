@@ -1,0 +1,2642 @@
+Forrest Gump,392466901,1607897
+The Sixth Sense,2345888,1017929
+Bruce Almighty,4634648,2467178
+Being Human,1581965,893306
+Batman Begins,1275262,708792
+Million Dollar Baby,1414309,829781
+The Two Towers,1472936,886668
+Live and Let Die,2063870,1187697
+The Lord of the Rings,1799762,993253
+Shall We Dance,1584651,893050
+The Spy Who Loved Me,1924809,957046
+Notting Hill,1435618,819747
+Ghost World,1812815,1102788
+The Usual Suspects,2136314,1198394
+Vampire Effect,1914744,1129461
+Batman Begins,1915866,915402
+The Lost Boys,1414663,936350
+Ghost World,1786972,1093907
+American History X,1313548,837429
+Seven,3443619,1846425
+Alexander,1809861,1128982
+Sleepy Hollow,1149050,683334
+Rush Hour 2,1505418,865417
+Walk in the Clouds,1671379,1106622
+Swimming Upstream,1590656,970324
+Dr. No,1916517,1243824
+Ocean Twelve,1556122,981254
+the Last Crusade,1438377,913142
+License To Kill,1254893,815911
+Terminator 2,1159053,655385
+Lemony Snicket,1296006,807393
+Stepmom,1389916,858966
+The Lost Boys,1337760,771993
+The Life Aquatic,1638289,873675
+The Machinist,1383160,871428
+The Merchant of Venice,1431916,934840
+50 First Dates,1303328,830267
+Home Alone 2,1480267,907580
+Amelie,1379162,863519
+8 Mile,1281037,776816
+Racing Stripes,1448574,858180
+Oceans Twelve,1309712,775854
+Dumb and Dumber,1378046,835598
+The Princess Bride,1281991,827220
+The Two Towers,1339890,849635
+GoldenEye,1102364,706178
+Training Day,1785799,1073480
+Hotel Rwanda,1813468,1101287
+Saving Private Ryan,1396874,876800
+Philadelphia,1662675,894707
+Spider Man 2,1591393,1017341
+Charlie and the Chocolate Factory,1492184,927470
+Bicentennial Man,1295810,776368
+For Your Eyes Only,1400314,937673
+Proof of Life,1156858,752263
+City Light,1281784,797581
+License To Kill,1265116,849548
+Bowling for Columbine,1329343,746664
+Son Of The Mask,1279664,826577
+8 Mile,1129995,707090
+Kingdom Of Heaven,1541558,901169
+The Hunted,1459337,904626
+Godsend,1337463,816942
+Alexander,1465237,925640
+Spider Man 2,2434469,1823426
+Star Wars,1191490,782413
+Anna and the King,1398844,924792
+You Only Live Twice,1479384,964264
+Sleepy Hollow,1451680,886163
+Alexander,1428522,919045
+Love the Hard Way,1603875,1013164
+Alien,2800573,1785663
+Hide and Seek,1569074,969711
+The Matrix Revolutions,1518060,957619
+Seven,5464107,1784770
+The Fifth Element,5560077,4988416
+The Machinist,2182282,1642567
+I Heart Huckabees,1836581,1279694
+Intolerable Cruelty,1885398,1141481
+Unleashed,1847374,1034398
+Jurassic Park,1427003,912073
+American Beauty,1504129,940639
+Dumb and Dumber,1527299,948448
+The Polar Express,1537067,1018490
+Alien3,1380521,848950
+Million Dollar Baby,1539391,920746
+Bride and Prejudice,1666695,1029484
+Rush Hour 2,2635356,2024052
+The Mask,1523703,978536
+Eternal Sunshine of the Spotless Mind,1409993,934204
+50 First Dates,1399989,908096
+Rush Hour 2,1378391,906141
+A Clockwork Orange,2754192,2115295
+Almost Famous,1371897,876629
+Spider Man 2,1467457,975787
+Any Given Sunday,1468563,925478
+In Good Company,1736374,1259367
+Indiana Jones,1419605,900873
+3000 Miles to Graceland,1708051,1000992
+The World is Not Enough,1487908,999488
+Being Human,1475130,926663
+Ride With the Devil,1445825,937062
+Men In Black,1654305,1140500
+Monty Python and the Holy Grail,1433590,964181
+Alien,2977881,1962004
+Oceans Twelve,1415058,939538
+Thunderball,1274858,814886
+Million Dollar Baby,1327858,886443
+Hellboy,1597414,1019022
+GoldenEye,1185887,775736
+Episode I,1478501,1013017
+Independence Day,1365961,907729
+24 Hour Party People,1337079,884414
+Courage Under Fire,1308690,842604
+The Mummy,1428474,946117
+Oceans Eleven,1163327,775518
+National Treasure,1591646,1028510
+Lord of the Rings,1411086,941094
+The Two Towers,1394775,927270
+Bone Collector,1754419,957169
+The Fast and the Furious,1461469,1001881
+The Hunted,1450860,944801
+Assault on Precinct 13,1461492,971860
+Hero,3858029,2604996
+Mystic River,1725566,1079571
+The Lord of the Rings,1530367,1034076
+The Far Side of the World,1409437,957971
+Charlie and the Chocolate Factory,1657560,1031645
+In Good Company,8189821,1170258
+Shall We Dance,1384471,915823
+Dogma,1113444,738242
+From Russia with Love,1254334,815946
+External Sunshine of the Spotless Mind,1158881,748814
+Revenge of the Sith,1128375,784728
+Man on Fire,1508535,1083842
+Traffic,2800191,1030328
+Oceans Twelve,1332342,896819
+Die Another Day,1096833,772191
+Thunderball,1107462,756231
+Oceans Eleven,1146838,724921
+Braveheart,2779478,2321648
+Diamonds are Forever,1367791,915406
+The Two Towers,1375231,920940
+Diamonds are Forever,1253471,840935
+The Phantom of the Opera,1110975,762078
+The Living Daylights,1139657,779009
+Bicentennial Man,1079981,724188
+Kingdom of Heaven,1067991,734250
+Notting Hill,999951,698800
+The Princess Bride,1081622,740634
+Lost in New York,1704572,1086068
+Alien,2423453,1748306
+Eyes Wide Shut,1488972,926996
+Coach Carter,1428713,930756
+Intolerable Cruelty,1751023,1077933
+Ray,1649132,1105628
+Gone with the Wind,1380311,961809
+Notting Hill,1346588,860267
+Assault on Precinct 13,1161902,742827
+Spiderman 2,1001374,679144
+Moulin Rouge,1638735,1104752
+X2,1547671,1055041
+White Noise,1779138,1136213
+The Machinist,1186192,827885
+The Royal Tenenbaums,1407544,954795
+The terminal,1244603,873305
+Black Hawk Down,1278617,900268
+Die Another Day,1309719,916849
+Charlie and the Chocolate Factory,1372266,1006621
+A Series of Unfortunate Events,2722240,2301848
+A Space Odyssey,2662737,2240632
+Shrek,1604194,1104057
+The Phantom of the Opera,1247032,879635
+A True Underdog Story,2598982,2212274
+Blast From the Past,1131466,812998
+Rush Hour 2,1251185,850306
+Bowling for Columbine,1094185,751489
+In Good Company,1396279,1042819
+The Machinist,1422122,969970
+Black Hawk Down,1247876,893259
+The Return of the King,1301873,913578
+I Heart Huckabees,1790900,1335888
+American History X,1209324,825786
+Lost in New York,1572621,1050097
+Breakfast at Tiffany,1273851,797672
+Black Hawk Down,1255930,806884
+3000 Miles to Graceland,1769008,1294276
+The Lord of the Rings,961446,684011
+For Your Eyes Only,1714062,1424846
+White Noise,1376694,966721
+National Treasure,2399439,1942596
+Crouching Tiger Hidden Dragon,1355828,852059
+The Goonies,1413059,924696
+The Incredibles,1376997,939658
+Mystic River,1615677,1119074
+Elf,1507840,1020798
+Bicentennial Man,1362118,899589
+Shrek,1660651,1181123
+Indiana Jones,1325847,909520
+Coach Carter,1320593,887760
+When Harry Met Sally,1301934,863328
+Revenge of the Sith,1488555,1006815
+Bride And Prejudice,1444075,977164
+Revenge of the Sith,1377392,946795
+X2,1728114,1079459
+Lost In Translation,1521491,1080215
+50 First Dates,1399640,958478
+24 Hour Party People,1390897,938119
+American History X,1379350,937058
+Men in Black II,1565854,1136483
+The Mummy Returns,1353199,951283
+Ocean Twelve,1471828,984076
+The Polar Express,1421870,1001094
+Thunderball,1278517,849337
+Men in Black II,1537040,1111310
+All Over Me,1480409,1044870
+Monty Python and the Holy Grail,1286747,883305
+Goldfinger,1278244,856960
+the Last Crusade,1449787,1004755
+Gone in 60 Seconds,1488981,1046970
+the Last Crusade,1395378,967493
+Daredevil,1314189,867697
+Gone in 60 Seconds,1556972,1120659
+You Only Live Twice,1409461,1003497
+Aliens,1842424,1290350
+Hide and Seek,1365991,946652
+Terminator 2,1252444,852626
+Kingdom Of Heaven,1306553,906393
+Starsky Hutch,2170753,1614500
+Pretty Woman,1570151,1066528
+Alien,2721881,1922153
+Charlie and the Chocolate Factory,1441397,1010144
+Bourne Identity,1328769,912779
+Moulin Rouge,1610562,1103576
+Bride And Prejudice,1427404,998913
+Before Sunrise,1291915,881100
+Eyes Wide Shut,1340614,933351
+Elektra,1550540,1061403
+National Treasure,1987625,1129017
+American History X,1345042,927495
+Charlie and the Chocolate Factory,1430087,1005109
+Any Given Sunday,1309755,903895
+Mystic River,1662873,1102430
+Oceans Eleven,1306467,875226
+Aliens,1811324,1284192
+The Others,1481631,1036580
+Moulin Rouge,1607645,1072076
+Star Wars,1464227,1010620
+Indiana Jones,1515635,1048136
+Smallville,1439499,900986
+Racing Stripes,1334536,894952
+Kingdom of Heaven,1400367,965290
+Donnie Darko,1303194,847503
+Bride And Prejudice,1450982,998874
+Alien3,1310792,839830
+Birth,1952388,1301245
+The Lord of the Rings,1489649,975895
+Hotel Rwanda,1598348,1096479
+Amelie,1466557,908418
+Oceans Twelve,1260821,863018
+Million Dollar Baby,1343583,920534
+The Lord of the Rings,1365103,942921
+Donnie Darko,1258167,841661
+Hellboy,1594815,1135485
+Home Alone 2,1400195,1003812
+Elektra,1396034,998167
+Proof of Life,1225203,855474
+Eternal Sunshine of the Spotless Mind,1145414,781732
+Home Alone,1678336,1104583
+You Got Served,1082093,790551
+Raiders Of The Lost Ark,1317668,891754
+Vampire Effect,1671034,1051472
+Godsend,1162311,780075
+Beautiful Boxer,1097080,763778
+The Lost Boys,1361491,998428
+The Stepford Wives,1433320,1014490
+Thunderball,1173681,788639
+You Only Live Twice,1398593,982753
+Blast From the Past,1353308,947951
+The Lord of the Rings,1127166,808186
+Racing Stripes,1208980,843071
+Spiderman 2,1025201,731129
+Starship Troopers,997618,702533
+From Russia with Love,1026772,715763
+Hitch,1465605,1007216
+Coach Carter,1388811,939980
+Good Will Hunting,1200085,865326
+The Goonies,1366736,988508
+The Royal Tenenbaums,1252927,880382
+External Sunshine of the Spotless Mind,1260911,843226
+The Aviator,1233265,853917
+Blast From the Past,1341152,908646
+A True Underdog Story,2705947,2319971
+Catch Me If You Can,1372870,982941
+Revenge of the Sith,1224917,869104
+Coach Carter,1130167,749838
+3000 Miles to Graceland,1236038,890226
+Men in Black II,1371069,1033177
+The Hunted,1303658,894582
+Scarface,1008683,707493
+Men In Black,1501035,1081827
+The Aviator,1256640,891742
+X2,1504832,1044749
+Diamonds are Forever,1247272,872173
+24 Hour Party People,1293714,914408
+Monty Python and the Holy Grail,1241303,849121
+Raiders Of The Lost Ark,1177688,816832
+A View to a Kill,2486433,2117254
+American History X,1130785,791636
+X2,1400332,987068
+Master and Commander,2002733,944709
+Starsky Hutch,1302163,901334
+Almost Famous,1364894,932501
+Alexander,1392754,991192
+Stepmom,1267955,719583
+Vampire Effect,1565543,1094336
+The Lord of the Rings,1307487,934059
+The Matrix Reloaded,1335847,929813
+Bruce Almighty,8001133,1363594
+Goldfinger,1250166,860470
+Star Wars,1326653,951446
+The Phantom of the Opera,1121027,794947
+Dr. No,1721417,1276840
+Diamonds are Forever,1079396,761663
+The Matrix Reloaded,1342560,896490
+Terminator 2,1284869,870532
+The Lost Boys,1224630,861580
+Million Dollar Baby,1254316,853782
+Notting Hill,1203213,821518
+Bride And Prejudice,1406503,1008262
+White Noise,1561071,1098339
+Eyes Wide Shut,1273614,866862
+GoldenEye,1235873,854722
+Sleepy Hollow,1275542,877178
+All Over Me,1307703,949476
+Bowling for Columbine,1255391,821261
+50 First Dates,1218327,833444
+The Matrix Reloaded,1333781,925698
+Bruce Almighty,1558492,1072573
+Eurotrip,2478498,971528
+Pretty Woman,1551982,1080326
+Notting Hill,1113744,764099
+24 Hour Party People,1215613,843188
+Spider Man 2,1362742,985786
+Collateral,1312618,899242
+Coach Carter,1230762,809683
+Titanic,1066447,728186
+Ghost World,1464630,1024347
+The terminal,1316290,929235
+Goldfinger,1190786,830682
+The Living Daylights,1270475,913188
+Gone with the Wind,1179795,864130
+The Lord of the Rings,1321147,927306
+Elektra,1465225,994278
+24 Hour Party People,1159535,811495
+Stepmom,940766,645851
+Racing Stripes,1026588,700018
+Alien3,1144681,797398
+Elf,1324152,919328
+Hide And Seek,1419174,981558
+Hero,8686948,2416603
+The Matrix Revolutions,1477978,1021874
+A Clockwork Orange,2181487,1912020
+Alexander,1548595,1036823
+The Goonies,1180774,827062
+A Clockwork Orange,2619533,2210298
+Eternal Sunshine of the Spotless Mind,1429232,919900
+Ghost World,1504887,1071981
+Spider Man 2,1233192,891429
+8 Mile,1281351,862522
+Shrek,1812695,1172235
+Shrek,1507857,1081811
+Seven,2649598,1788038
+Hide and Seek,1434694,1000291
+The Mummy,1365451,898339
+Catwoman,2651821,912851
+The Matrix Reloaded,1243591,909507
+Insomnia,1097339,737006
+Ray,1468316,1038618
+Indiana Jones,1162443,813058
+The Fast and the Furious,1153235,848388
+Insomnia,1224754,807188
+Home Alone 2,1286899,934123
+Cinderella Man,1460200,990675
+Lemony Snicket,1136500,792886
+Bride And Prejudice,1210873,856833
+Hitch,1335499,940148
+One Eight Seven,1211419,886266
+Jurassic Park,1249761,888984
+The Two Towers,1296207,934282
+City Light,1201486,836900
+Unleashed,1355936,938647
+Elf,1342675,954931
+Raiders Of The Lost Ark,1152794,824650
+The Godfather,1223803,889166
+Blast From the Past,1274669,927068
+Forrest Gump,1433469,922539
+Catch Me If You Can,1429020,982594
+Elf,1523884,1085586
+Any Given Sunday,1085263,732848
+The Return of the King,1182217,850743
+Bourne Identity,1395765,913042
+About A Boy,1379570,895042
+Lord of the Rings,1287110,897335
+Shrek,1465298,1045481
+The Fellowship of the Ring,1286182,909165
+Eternal Sunshine of the Spotless Mind,1069866,757653
+The Matrix Revolutions,1183445,812226
+The Two Towers,1179742,838895
+The Return of the King,1332828,910972
+Donnie Darko,1468508,1025206
+GoldenEye,982377,685055
+Smallville,894821,596369
+The Mummy,899410,645270
+Moulin Rouge,1139917,853024
+Kingdom Of Heaven,1206282,772202
+Cinderella Man,1560652,1163373
+Godsend,1220878,841323
+Godsend,1097299,764416
+Thunderball,958169,676163
+Traffic,1386906,846241
+The Princess Bride,1211207,879313
+In Good Company,1103187,875557
+Dr. No,1345410,1020546
+The Village,1192017,857648
+Collateral,1348181,928718
+The Others,1185551,837761
+The Lord of the Rings,1305556,925782
+Bone Collector,1059933,726398
+A Clockwork Orange,2435883,2099406
+GoldenEye,1149913,727217
+Before Sunrise,1006442,700010
+Charlie and the Chocolate Factory,1112270,826890
+Notting Hill,995630,720333
+You Only Live Twice,1351716,986853
+Hero,3920100,2431273
+Spider Man,1727801,1217005
+Million Dollar Baby,1087439,744396
+Godsend,935056,636132
+Stepmom,1055394,753796
+The Lord of the Rings,1130268,790491
+All Over Me,1376763,1028513
+Diamonds are Forever,1211129,859459
+Cube Zero,1409089,973431
+Men In Black,1182330,920078
+Kingdom of Heaven,1269670,894426
+The Machinist,1212391,858938
+Spider Man 2,1361952,967615
+White Noise,1512700,1098029
+Are We There Yet,1290068,921027
+Lord of the Rings,1232058,882545
+Scarface,1185752,835222
+Men In Black,1475165,1107420
+On Her Majestys Secret Service,1355139,1001414
+Spider Man 2,1141766,824116
+Shrek,1536726,1094891
+The Life Aquatic,1147194,841255
+Seven,2261486,1554668
+The Mummy Returns,1279951,920829
+A Beautiful Mind,2292432,1986080
+The Return of the King,979664,727509
+A View to a Kill,2227491,1938175
+Indiana Jones,949341,702851
+Garden State,2662782,1055912
+Proof of Life,1282047,918636
+Revenge of the Sith,990231,699291
+Alien,2649510,1860832
+I Heart Huckabees,1745986,1293499
+Intolerable Cruelty,1195261,839513
+The Matrix Revolutions,1237462,766279
+Ray,1540444,961204
+Shrek,1511465,1014166
+Dumb and Dumber,1023457,759986
+Moulin Rouge,1438180,1020181
+GoldenEye,914935,663221
+Good Will Hunting,1029823,767058
+Die Another Day,1110271,814128
+You Got Served,1293556,933038
+Before Sunrise,1163258,815561
+A View to a Kill,2439258,2122520
+Terminator 2,1233270,855116
+Dogma,1047528,754055
+X2,1184019,846722
+A Space Odyssey,2542161,2185330
+Miss Congeniality 2,1115768,807586
+Home Alone,1392968,945002
+Garden State,1489059,1080183
+Live and Let Die,1188221,791139
+Home Alone 2,948294,674962
+Sleepy Hollow,874116,592916
+A Space Odyssey,2273714,1988592
+Lord of the Rings,939451,669508
+Bride And Prejudice,1012064,759503
+Rush Hour 2,1240236,866910
+In Good Company,1505571,1135760
+A View to a Kill,2362973,2010865
+Lord of the Rings,1168037,823050
+Alien3,852997,590843
+Hellboy,1099704,801886
+The Lord of the Rings,1073401,743990
+Black Hawk Down,1203121,771118
+Seven,2356655,1642638
+Jurassic Park,1247944,908071
+12 Monkeys,1178415,819370
+Ray,1504296,982219
+Black Hawk Down,1116140,815239
+Ocean Twelve,1133324,796612
+The Aviator,1104983,802864
+Kingdom Of Heaven,1131637,834906
+Men In Black,4460833,4136509
+Hero,3170850,2372800
+Catch Me If You Can,1432705,1014178
+Hotel Rwanda,1472222,1018133
+Hide And Seek,1195666,812504
+Proof of Life,1154912,815008
+Roman Holiday,1199940,849830
+Indiana Jones,1195300,788854
+The Lord of the Rings,1102676,803838
+The Lord of the Rings,1438319,898267
+The Goonies,1200834,859009
+Vampire Effect,1241739,924931
+Hero,3346254,2481262
+Revenge of the Sith,1291896,866742
+ARMED AND FABULOUS,1134189,815894
+Live and Let Die,1051789,764522
+Hotel Rwanda,1523512,1089979
+Goldfinger,1194605,832619
+Hero,3133836,2260505
+Along Came Polly,1214451,856244
+The Incredibles,1117229,805418
+The Return of the King,1034062,742930
+Oceans Twelve,983491,635351
+The Lost Boys,974913,742691
+X2,1304990,931211
+Spider Man 2,1261297,924790
+Revenge of the Sith,1229037,867614
+X2,1193559,841520
+Driven,1028455,724549
+National Treasure,1268767,942898
+A Space Odyssey,2338127,2082868
+GoldenEye,1023630,665016
+Along Came Polly,1112742,717508
+Die Another Day,1026064,762007
+Indiana Jones,1321358,852880
+All or Nothing,981209,756061
+Revenge of the Sith,1202103,855754
+In Good Company,1177258,917555
+Alexander,1270750,898515
+Before Sunrise,1078072,778579
+The Mask,1047242,757775
+License To Kill,1369347,956262
+Million Dollar Baby,1260972,797683
+Bruce Almighty,1453971,994122
+X2,1297378,941128
+Runaway Bride,1223692,800511
+The Stepford Wives,1074063,782592
+Bourne Identity,1044706,730483
+Ghost World,1362471,963766
+Vampire Effect,1318932,866908
+Hero,3286860,2520076
+Episode III,1381391,814028
+Meet the Fockers,1154067,839149
+the Temple of Doom,1054329,775386
+A View to a Kill,2280496,2018173
+A True Underdog Story,2282749,2001349
+Philadelphia,945382,654047
+Are We There Yet,1132098,811184
+Hotel Rwanda,1380135,1022190
+The Hunted,1285449,924403
+24 Hour Party People,1150814,796023
+Stepmom,993692,706534
+GoldenEye,1086003,764863
+Vampire Effect,1604857,1066760
+National Treasure,1722630,1115605
+The Two Towers,1106909,772567
+Snatch,1227368,856275
+You Got Served,1083396,815469
+Ghost World,1536313,1032295
+Son Of The Mask,984089,690483
+About A Boy,1237850,854062
+American History X,996426,703485
+Shogun,988193,675470
+Birth,1419825,1008394
+Traffic,1406669,933272
+Diamonds are Forever,1157960,834632
+Alone in the Dark,1305245,995034
+Dr. No,1467857,1087739
+The Godfather,1182189,831721
+The Phantom of the Opera,1267331,915733
+Snatch,1240340,851366
+The Godfather,1260892,893416
+Sleepy Hollow,825629,609844
+Thunderball,1304426,848285
+The Lord of the Rings,1321037,915642
+A True Underdog Story,2550773,2181333
+Die Another Day,1313169,941950
+Diamonds are Forever,1216669,855427
+Oceans Twelve,1227888,860704
+Stepmom,1228965,854767
+The Mummy Returns,1275138,884440
+Before Sunrise,1229990,864424
+Men In Black,1442106,1041604
+Monty Python and the Holy Grail,1249726,832247
+A View to a Kill,2582814,2210174
+The Matrix Reloaded,1260508,911975
+Braveheart,1220221,851094
+Love Actually,1326386,969372
+Meet the Fockers,1407203,886648
+Are We There Yet,1326361,935251
+Oceans Eleven,1216388,853320
+Coach Carter,1267992,898377
+Alien,2750856,1962431
+The terminal,1239216,893784
+The Lord of the Rings,1258766,913290
+24 Hour Party People,1206643,845313
+From Russia with Love,1201478,836277
+Pretty Woman,1499753,1128636
+The Mask,1212700,872859
+Assault on Precinct 13,1230192,864276
+The Royal Tenenbaums,1315275,923854
+Unleashed,1452441,1039515
+ARMED AND FABULOUS,1237252,872791
+Finding Neverland,1475909,1066273
+Spiderman 2,1135514,798611
+White Chicks,1564354,1144232
+Hero,3463193,2481949
+Assault on Precinct 13,1282499,924980
+The Mask,1216809,874668
+Hellboy,1395772,997572
+Blast From the Past,1195658,860528
+Bad Company,1432930,1022628
+Racing Stripes,1204011,830747
+Hitch,1281588,923684
+Training Day,997801,702897
+Cinderella Man,2333676,939544
+Son Of The Mask,1306055,926528
+8 Mile,1191736,835877
+The Spy Who Loved Me,1232957,918859
+The terminal,1302559,919045
+Revenge of the Sith,2641928,2295140
+National Treasure,1508792,1107066
+Traffic,1267998,795224
+the Last Crusade,1001824,730296
+Shrek,1197804,852567
+The Lord of the Rings,1263272,895181
+GoldenEye,1161519,807387
+External Sunshine of the Spotless Mind,835530,586672
+Million Dollar Baby,946616,689182
+Raiders Of The Lost Ark,961168,682558
+Traffic,1391205,979034
+Love the Hard Way,1094694,815328
+Revenge of the Sith,909819,627701
+The New World,1284668,843383
+Blast From the Past,1187786,852159
+For Your Eyes Only,1075725,797349
+Raiders Of The Lost Ark,1009577,746862
+The Mummy Returns,1310820,921023
+Miss Congeniality 2,1361096,895547
+Alexander,1481009,1052209
+Hellboy,1462697,1047948
+Mystic River,1364822,988405
+The Stepford Wives,1214845,840787
+Oceans Eleven,1131689,755204
+The Lord of the Rings,1229333,851647
+The Return of the King,1079675,788830
+National Treasure,1344480,966247
+A Space Odyssey,2514917,2180515
+Almost Famous,1171965,820797
+Racing Stripes,1206374,852383
+Ghost World,5492155,1070464
+Proof of Life,1225394,871849
+the Last Crusade,1206612,864340
+Alien,2522768,1870207
+Insomnia,1220732,849906
+The Polar Express,1150950,833632
+50 First Dates,1198146,824355
+Amelie,1092515,757053
+Braveheart,1131563,776425
+Intolerable Cruelty,1475563,1021891
+Meet the Fockers,1153901,841612
+A Space Odyssey,2399773,2049418
+Hellboy,1384454,980909
+8 Mile,1107148,773829
+Scarface,1061104,741333
+Saving Private Ryan,1232990,871837
+Rush Hour 2,1168975,843220
+Good Will Hunting,1079592,780377
+Collateral,1226843,867327
+Snatch,1060269,748233
+Godsend,1121451,781126
+Insomnia,1083081,721954
+Racing Stripes,1211769,855152
+Shrek,1550964,1095597
+Any Given Sunday,1178400,810350
+Daredevil,1075786,719696
+The Incredibles,1231251,868532
+The Affair of the Necklace,1155843,829370
+Spiderman 2,1040769,752290
+The Goonies,1266206,875332
+Charlie and the Chocolate Factory,1256932,915410
+Insomnia,1157227,806314
+Vanilla Sky,1214712,846304
+Dr. No,1599437,1180075
+The Machinist,1174185,827379
+Breakfast at Tiffany,1209291,887742
+The Mask,1255353,894454
+Finding Neverland,1454384,1020238
+The Spy Who Loved Me,1186094,861443
+Goldfinger,1183132,816162
+Eternal Sunshine of the Spotless Mind,1203701,850243
+Lord of the Rings,1325199,960707
+External Sunshine of the Spotless Mind,1299100,775120
+I Heart Huckabees,1611430,1255165
+Live and Let Die,1362416,1026891
+Hide and Seek,1200537,878488
+You Only Live Twice,1176815,876216
+Seven,2361407,1626735
+Traffic,1354904,952704
+Coach Carter,1170750,824538
+Alone in the Dark,1393159,1065963
+The Polar Express,1212406,858583
+Ghost World,1536858,1118437
+Licence to Kill,918662,640098
+The World is Not Enough,1284199,940241
+The Lord of the Rings,1243264,880053
+Thunderball,974008,652166
+Coach Carter,1122969,789718
+Dogma,1204384,818060
+Rush Hour 2,1202469,854709
+The Lost Boys,1133274,831420
+The Polar Express,1225214,855041
+Spider Man 2,1322674,969259
+Hotel Rwanda,1429468,1024963
+Master and Commander,1226980,884497
+The Lost Boys,1267882,933717
+The Sixth Sense,6120318,770819
+Beautiful Boxer,1252485,901492
+Mystic River,1372005,985504
+The Mummy Returns,1120772,814570
+The Far Side of the World,1231338,886836
+Monty Python and the Holy Grail,1100535,791294
+X2,1344660,924024
+Snatch,1176525,832733
+Rush Hour 2,1285594,910612
+The Village,1228563,859891
+Catch Me If You Can,1279774,942602
+Dr. No,1659025,1256908
+The Sixth Sense,1277301,898203
+Braveheart,1170167,804932
+Rush Hour 2,1228149,888004
+The Far Side of the World,1265213,916520
+The Machinist,1250761,870964
+American Beauty,1292408,884250
+Star Wars,1264651,940097
+Oceans Twelve,1020689,713112
+Love the Hard Way,1379887,1027321
+Garden State,1469134,1060085
+Hitch,1303422,925942
+Before Sunrise,1070306,757787
+Hero,3453181,2589470
+Dumb and Dumber,3009732,939444
+National Treasure,1767910,914302
+The Lost Boys,1210793,913929
+Season 3,1161806,831598
+Man on Fire,1393968,1043830
+From Russia with Love,975106,651983
+In Good Company,1484581,1134037
+The Matrix Revolutions,1296947,864935
+Hotel Rwanda,1443577,988887
+Star Wars,1406180,940215
+Almost Famous,1069977,762787
+Blade Runner,1100783,799541
+Zoolander,1253274,896772
+Son Of The Mask,1268066,917226
+50 First Dates,1068280,759268
+Hitch,1249077,898878
+Notting Hill,1014461,711298
+White Chicks,1410941,998766
+Lord of the Rings,1189238,859615
+Amelie,1112123,770719
+The Lord of the Rings,1327599,984648
+Die Another Day,1196046,871127
+Troy,1153941,830712
+When Harry Met Sally,1200924,864213
+Terminator 2,917051,672443
+Ride With the Devil,897224,666020
+Finding Neverland,1431634,1033784
+Forrest Gump,1225676,862138
+External Sunshine of the Spotless Mind,1011199,630417
+Birth,1362671,952402
+A True Underdog Story,2474178,2135718
+Alexander,1042689,782521
+Home Alone,1512371,1095183
+Birth,1730413,1158842
+Hotel Rwanda,1419487,1027150
+Moulin Rouge,1346335,978080
+The Far Side of the World,1044283,770424
+8 Mile,1120916,802910
+The Two Towers,1217033,890156
+Shrek,1404586,1038083
+Kingdom Of Heaven,1077877,771051
+Dr. No,1366916,1068656
+Revenge of the Sith,1011980,752644
+Moulin Rouge,1274353,924799
+Starsky Hutch,1301647,934591
+The Far Side of the World,1234932,912100
+Birth,1681189,1163852
+Catch Me If You Can,1158005,868745
+Blade Runner,1058935,755149
+The Far Side of the World,1217085,889675
+Rush Hour 2,941338,697837
+In Good Company,1233275,959106
+When Harry Met Sally,991244,698122
+Son Of The Mask,1397142,963702
+Spiderman 2,983379,697536
+The Machinist,920905,675574
+Training Day,1121754,814233
+Bride And Prejudice,1150839,830955
+Godsend,901730,614588
+Elf,1292434,930224
+Troy,916480,648857
+Lost in New York,1072969,809253
+American Beauty,986781,714135
+Love the Hard Way,1228905,953781
+Star Wars,1004140,745210
+Hotel Rwanda,1365908,1006802
+Raiders Of The Lost Ark,1181419,868171
+Gone with the Wind,1122515,763643
+Roman Holiday,929648,680097
+All or Nothing,1058401,763565
+The Matrix Revolutions,1043900,752312
+Any Given Sunday,961746,685565
+Licence to Kill,1130753,816235
+A View to a Kill,2550846,2192264
+Eurotrip,1346235,941624
+Racing Stripes,1189227,851386
+8 Mile,1163991,821735
+Dumb and Dumber,1349141,995849
+Shogun,1103824,779382
+The World is Not Enough,1045412,779124
+Home Alone 2,1188995,875445
+Are We There Yet,1223233,898876
+Snatch,1046367,744604
+The Village,1093652,805440
+Bride And Prejudice,1241742,932551
+Cinderella Man,1390030,1027817
+Pretty Woman,1322575,949007
+One Eight Seven,1242027,898440
+American Beauty,1198049,859282
+Star Wars,1200643,865663
+Stepmom,1171192,825234
+From Russia with Love,1149727,807173
+Shrek,1521419,1121062
+Shall We Dance,1271712,897535
+Bourne Identity,1162134,827688
+Forrest Gump,1122092,792426
+A Clockwork Orange,2457703,2110319
+Sleepy Hollow,1124088,795537
+When Harry Met Sally,1117116,784465
+Alexander,1373527,977358
+Love the Hard Way,1343725,984519
+Spiderman 2,1139682,806080
+Monty Python and the Holy Grail,1184011,817452
+Almost Famous,1213074,843254
+The Man with the Golden Gun,1315326,941189
+Beautiful Boxer,1352980,854833
+From Russia with Love,1176204,807948
+White Noise,1454872,1055410
+Jurassic Park,1191902,843383
+A Nightmare On Elm Street,2424688,2088422
+The Lord of the Rings,1197574,868909
+Alexander,1360144,965224
+Men In Black,1421533,1091132
+Hitch,1383679,985237
+Charlie and the Chocolate Factory,1305041,953133
+Breakfast at Tiffany,1190147,854434
+Alexander,1354970,989382
+Revenge of the Sith,1185716,856325
+Oceans Eleven,1124066,787351
+Oceans Twelve,1197377,818076
+Driven,1156941,839170
+Star Wars,1249778,894257
+The Lord of the Rings,1310732,949719
+Love Actually,1284502,960396
+Batman Begins,1115055,782918
+The Matrix,1220743,887955
+Hide and Seek,1268894,919212
+Alexander,1457963,1052435
+The Affair of the Necklace,1267104,916306
+Season 3,1217245,878841
+The Aviator,1245067,890960
+Jurassic Park,1209376,858501
+Traffic,1315779,930021
+Robots,1364281,958440
+24 Hour Party People,1201841,870192
+Ray,1530603,1091091
+The Lost Boys,1272095,932132
+Elf,1466951,1056594
+Eurotrip,1353557,962920
+The Life Aquatic,1270845,901503
+Eternal Sunshine of the Spotless Mind,1265134,909839
+Live and Let Die,1357936,1001489
+Birth,4781467,1130667
+Meet the Fockers,1331923,978544
+Coach Carter,1243555,865150
+Mystic River,2513979,2094688
+A Beautiful Mind,2638936,2247431
+the Temple of Doom,1312214,933844
+Son Of The Mask,1286778,939185
+Racing Stripes,1164354,828046
+The Machinist,1218203,865243
+Birth,1703916,1146171
+Star Wars,1245014,893735
+Racing Stripes,1114388,782382
+Miss Congeniality 2,1253208,886054
+Are We There Yet,1282363,897072
+Forrest Gump,1130360,806324
+Breakfast at Tiffany,1274736,916413
+Monty Python and the Holy Grail,1169179,838730
+Hero,5882475,2503195
+Kingdom Of Heaven,1281511,911475
+A View to a Kill,2601098,2215050
+Love Actually,1367503,1001271
+Octopussy,1151505,790733
+The Far Side of the World,1274012,931549
+Men In Black,1468402,1115615
+Aliens,1703974,1224597
+X2,1445862,1018544
+Runaway Bride,1303339,916016
+Being Human,1220931,872018
+The Godfather,1263469,905472
+the Last Crusade,7096318,1264344
+Eurotrip,1340853,935734
+Cinderella Man,1470920,1070698
+Jurassic Park,1212889,870117
+3000 Miles to Graceland,1319335,968619
+Diamonds are Forever,1203007,858926
+The Return of the King,1246353,902425
+Pretty Woman,1495922,1049857
+The Machinist,1251860,884480
+Dr. No,1605774,1215948
+50 First Dates,1206856,876893
+You Only Live Twice,1269174,949827
+The Fifth Element,1316056,947408
+All Over Me,1343872,928316
+Hitch,1030525,717815
+Finding Neverland,1201402,890482
+A Beautiful Mind,2328213,2014254
+Lost in New York,1198905,940920
+The Fifth Element,958062,711381
+X2,1279869,920069
+Ray,1233673,925685
+Training Day,1164899,855078
+The Two Towers,1251654,904061
+Thunderball,964916,668826
+The Goonies,1167352,881508
+Monty Python and the Holy Grail,1181055,834542
+Bicentennial Man,1254519,894695
+Spider Man 2,1320228,970871
+You Only Live Twice,1219557,888002
+Godsend,1124661,793594
+Elektra,1416060,1021154
+Seven,2491590,1741479
+50 First Dates,1192388,863947
+Star Wars,1225500,868705
+City Light,1287274,919495
+Raiders Of The Lost Ark,1239069,899240
+GoldenEye,1186145,830747
+Home Alone,1477307,1073281
+Alexander,1499548,973322
+Training Day,1175832,807028
+Crouching Tiger Hidden Dragon,1102401,787111
+The Far Side of the World,1259579,915042
+Kingdom Of Heaven,1187697,854986
+Alien3,1106125,777761
+Licence to Kill,1126519,799730
+Along Came Polly,1204093,856574
+Bourne Identity,1162658,819609
+Love Actually,1314067,982783
+Crouching Tiger Hidden Dragon,1171918,807351
+The Lord of the Rings,1221480,906361
+The Matrix Revolutions,1198612,856494
+Hero,3355442,2539348
+Miss Congeniality 2,1289355,913187
+Spiderman 2,1235731,825258
+Lost in New York,1434380,1078075
+Hitch,1419092,964403
+Courage Under Fire,1136914,808452
+Racing Stripes,1190178,854708
+Shall We Dance,1199844,878452
+Home Alone,1470773,1061065
+The Fellowship of the Ring,1245254,906447
+Sleepy Hollow,1166636,816366
+Thunderball,1122709,797873
+Home Alone 2,1214997,902923
+External Sunshine of the Spotless Mind,1069298,750895
+A Space Odyssey,2523094,2218115
+Indiana Jones,1215911,874228
+Pretty Woman,1365983,1008424
+From Russia with Love,1158347,826896
+Hide and Seek,1210107,874228
+Alien,7307918,1847411
+Moulin Rouge,1463843,1049551
+Roman Holiday,1167581,831259
+Live and Let Die,1389275,1032305
+The Living Daylights,1267435,908920
+Vanilla Sky,1208198,852299
+In Good Company,1436380,1097559
+Unleashed,1403827,1011032
+Meet the Fockers,1206734,862023
+Bicentennial Man,1147393,797559
+The Two Towers,1232472,893032
+Season 3,1216934,879373
+City Light,1211557,870185
+Rush Hour 2,1162378,829833
+Catch Me If You Can,1359859,990573
+From Russia with Love,1149437,826914
+Braveheart,1141510,812959
+American History X,1230100,885556
+Licence to Kill,1144645,796933
+Shrek,1671083,1113035
+Raiders Of The Lost Ark,1159980,837968
+The Village,1253889,912265
+Men In Black,1384574,1050108
+About A Boy,1093579,772014
+Eternal Sunshine of the Spotless Mind,1209687,840385
+The Godfather,1231702,894888
+The Lord of the Rings,1222039,885759
+Dumb and Dumber,1251610,926372
+Licence to Kill,1118697,779333
+Courage Under Fire,1103628,774850
+Meet the Fockers,1229761,895980
+White Noise,1359904,1006157
+Sleepy Hollow,1137906,793065
+Breakfast at Tiffany,1127471,812245
+Star Wars Episode 3,1260831,933437
+the Last Crusade,1231015,901526
+Any Given Sunday,1199191,867562
+Season 3,1296845,928760
+The terminal,1186552,855337
+Hitch,1335937,954682
+Dr. No,1706877,1273487
+Spider Man 2,1256564,926000
+White Noise,1463106,1072434
+Bride And Prejudice,1274723,970142
+Bourne Identity,1127929,823397
+About A Boy,1188983,835836
+Shogun,1022207,710062
+When Harry Met Sally,1044417,747449
+Wonder Boys,1133831,797969
+Hero,3238367,2394241
+Finding Neverland,1447504,1055556
+Raiders Of The Lost Ark,996059,737624
+Coach Carter,1045323,736202
+Spider Man 2,1286809,917302
+Finding Neverland,1424050,1041401
+Rush Hour 2,1211200,885298
+Oceans Eleven,1107938,773571
+The Two Towers,1253130,919669
+Proof of Life,1180040,857094
+You Got Served,1046125,791626
+Episode I,1282633,981553
+Hellboy,1421448,1031259
+A Beautiful Mind,2471381,2133863
+Racing Stripes,1087594,799817
+Aliens,1520366,1128660
+Men In Black,1359909,1040273
+Beautiful Boxer,1171256,856058
+Son Of The Mask,1098197,817204
+Elektra,1368443,976625
+All Over Me,1280192,967458
+Alien3,1061837,748281
+Live and Let Die,1294612,972296
+Thunderball,3616140,798876
+the Last Crusade,1252890,896233
+Lost In Translation,5295856,4837464
+Any Given Sunday,1255377,880604
+From Russia with Love,1183463,842009
+Shrek,1468670,1071484
+3000 Miles to Graceland,1302378,932275
+In Good Company,1438840,1094299
+Black Hawk Down,1198406,868400
+Bourne Identity,1103186,803430
+Amelie,1064528,755827
+From Russia with Love,1188734,837281
+Hotel Rwanda,1504258,1082202
+Men In Black,1410077,1073897
+The Return of the King,1267970,926272
+Bride And Prejudice,1146916,852874
+Hide and Seek,1088584,797333
+Saving Private Ryan,1240933,898003
+Live and Let Die,1278941,953280
+Meet the Fockers,1076402,791245
+The Sixth Sense,1124191,816881
+For Your Eyes Only,1252167,929946
+From Russia with Love,958934,663359
+Hostage,1450544,1031176
+Licence to Kill,1085046,777905
+The Godfather,1151998,867125
+The Incredibles,1116505,816023
+Amelie,1683914,1335897
+Notting Hill,1165291,835242
+The Two Towers,1199813,907485
+External Sunshine of the Spotless Mind,927939,662468
+Hero,3149810,2445151
+Love Actually,1364162,1005348
+Alien3,988168,693114
+Hitch,1320908,893970
+The Phantom of the Opera,1031217,780598
+Scarface,1089690,750117
+Scarface,1131205,814848
+Godsend,1149806,799523
+Catch Me If You Can,1263873,947609
+Any Given Sunday,1137932,827465
+Godsend,1100831,790625
+For Your Eyes Only,1297356,974546
+Shogun,1151360,807440
+A Clockwork Orange,2387874,2089241
+A Clockwork Orange,2498683,2152332
+Training Day,1226458,887879
+Spiderman 2,1022827,730191
+Donnie Darko,1165061,822866
+The Life Aquatic,1223239,896845
+The Matrix,1066106,777321
+License To Kill,968429,714642
+Good Will Hunting,1192910,824120
+The Stepford Wives,1281805,820050
+The Return of the King,970730,729648
+Birth,1447781,1005035
+Training Day,1256830,853957
+Rush Hour 2,1013043,663404
+Elf,1269954,930482
+Finding Neverland,1146830,856064
+Anna and the King,1095214,824348
+All or Nothing,1086555,822539
+Catch Me If You Can,1090008,829244
+The Lord of the Rings,1013703,757215
+Raiders Of The Lost Ark,964166,710926
+A View to a Kill,2456323,2108529
+Racing Stripes,1111982,803144
+Breakfast at Tiffany,1232894,881041
+Elf,1380482,958381
+Spiderman 2,1140751,819710
+Alien,2565246,1856650
+Dodgeball,1222120,849936
+Indiana Jones,1258371,868448
+The Majestic,1200430,866118
+Racing Stripes,1179615,838327
+The terminal,1259205,915606
+Shrek,1487110,1095510
+I Heart Huckabees,1608435,1237085
+License To Kill,1271276,923438
+Traffic,1335700,951355
+Shrek,1503707,1094267
+Goldfinger,1165704,801713
+Scarface,1154574,801034
+In Good Company,1207583,838922
+American Beauty,1058601,782227
+Eternal Sunshine of the Spotless Mind,1101946,786864
+Live and Let Die,1253895,954448
+Million Dollar Baby,856734,651337
+Man on Fire,1162319,882688
+Hero,6660470,2232275
+Assault on Precinct 13,1237321,878191
+For Your Eyes Only,993728,752973
+Garden State,1275416,937764
+A Space Odyssey,2259819,1995275
+Miss Congeniality 2,957568,621311
+Birth,1512489,1087936
+Are We There Yet,1180605,876230
+Jurassic Park,1105505,777782
+You Only Live Twice,1193543,908484
+White Noise,1339908,1000302
+License To Kill,1030328,659593
+Thir13en Ghosts,813001,584040
+The terminal,1110216,715100
+Good Will Hunting,1121695,725389
+Batman Begins,932325,664273
+Bowling for Columbine,948471,634792
+Meet the Fockers,1090300,820713
+All Over Me,1343464,996084
+Diamonds are Forever,1028072,740263
+The Lost Boys,977087,750496
+The Matrix Revolutions,1117575,792563
+The Return of the King,936222,711675
+The Matrix Reloaded,1182339,866359
+Million Dollar Baby,1197650,844256
+Million Dollar Baby,1137676,810246
+Moulin Rouge,1406538,1032371
+Catwoman,1349423,947376
+Lord of the Rings,1344365,854369
+The Terminator,1100995,819079
+Vampire Effect,1244651,903034
+Before Sunrise,1197068,850387
+Saving Private Ryan,1170433,784795
+The Lord of the Rings,916700,701049
+The Far Side of the World,1008806,762874
+The Godfather,1190005,787365
+The Machinist,1041410,792170
+Birth,1372910,965260
+Snatch,1036118,664366
+Hotel Rwanda,1341280,921810
+24 Hour Party People,1160082,823228
+Monty Python and the Holy Grail,1043928,750187
+Seven,2348773,1673817
+Ray,1474922,1071136
+Dr. No,1579202,1221501
+Hellboy,1352529,986453
+The Hunted,1187245,850099
+Intolerable Cruelty,1333122,995031
+Home Alone,1389786,1019115
+Cube Zero,1389810,1004873
+Hide and Seek,1310984,877765
+Birth,1573625,1103206
+Proof of Life,1147028,813416
+Rush Hour 2,1268271,866266
+American History X,1150659,844850
+The Return of the King,1063944,672186
+Shrek,1230801,929083
+City Light,1136626,818931
+Amelie,1067236,768609
+Spider Man 2,1213184,901967
+The World is Not Enough,1173955,856814
+Breakfast at Tiffany,1158420,841625
+A View to a Kill,2173041,1944884
+Eyes Wide Shut,917841,670122
+Scarface,899987,631302
+Training Day,1137814,835174
+50 First Dates,1192030,863616
+Love Actually,1209804,809210
+Lost In Translation,1301328,990725
+Unleashed,1253920,915795
+Bone Collector,1191635,859512
+Bride And Prejudice,1274756,950822
+Monty Python and the Holy Grail,1083495,762651
+Live and Let Die,1326709,972630
+Oceans Twelve,1132960,829477
+Racing Stripes,1093060,796310
+Son Of The Mask,1246331,889811
+Blast From the Past,1079002,779112
+Eyes Wide Shut,1022479,728850
+Philadelphia,1155334,802374
+The Two Towers,1260094,932576
+Lost in New York,1339966,997592
+The Matrix Revolutions,985708,739606
+Along Came Polly,1137752,819019
+The Lord of the Rings,1124626,820629
+Oceans Eleven,1059020,758116
+The Polar Express,1144273,832163
+Walk in the Clouds,1291849,977692
+The Lord of the Rings,1043442,777587
+Hotel Rwanda,1307781,959688
+Traffic,1175462,846399
+Ghost World,1353972,1011063
+The Godfather,1172154,850601
+Home Alone,1419040,1051476
+All Over Me,1215109,923404
+A True Underdog Story,2434878,2150763
+Charlie and the Chocolate Factory,1149739,859254
+The World is Not Enough,1214528,876214
+Being Human,1002630,755652
+Intolerable Cruelty,1305931,1009316
+The World is Not Enough,1188019,811438
+The Far Side of the World,988077,739619
+Bourne Identity,870857,643518
+Girl with a Pearl Earring,950022,706819
+The Mask,1021808,762575
+The Aviator,1018905,766886
+All Over Me,1183566,901748
+Hero,3420948,2483381
+A Beautiful Mind,2522118,2204899
+You Only Live Twice,1259509,936141
+Live and Let Die,1211318,918621
+Mystic River,1294485,969515
+Requiem For a Dream,1096849,829989
+Unleashed,1393463,1004585
+Catch Me If You Can,1228255,918168
+Coach Carter,1151488,843048
+Eternal Sunshine of the Spotless Mind,1183355,840732
+Troy,1092149,784086
+Goldfinger,910065,649532
+Driven,8174955,729926
+Gone in 60 Seconds,1278625,975858
+Ray,1478239,1063720
+Snatch,1156419,809170
+the Last Crusade,1111580,818390
+In Good Company,1305090,1005760
+Oceans Twelve,1158255,814408
+Catwoman,1179158,767845
+The Return of the King,1156137,842665
+The Far Side of the World,1271785,917024
+Gone in 60 Seconds,1238045,927243
+Braveheart,861847,616736
+Catch Me If You Can,1250728,934145
+You Got Served,1100488,816038
+Intolerable Cruelty,1375788,985286
+Amelie,1107353,776799
+Assault on Precinct 13,1160667,825846
+Jurassic Park,1199406,867362
+Oceans Eleven,1168564,799354
+Alone in the Dark,1292395,944324
+Dumb and Dumber,1257249,909685
+The World is Not Enough,1253943,907409
+Love the Hard Way,1334320,977217
+Hitch,1402327,1017919
+The Royal Tenenbaums,1230822,914599
+You Only Live Twice,1285347,960956
+Spiderman 2,1129902,797864
+When Harry Met Sally,1138113,807395
+Indiana Jones,1143844,816206
+The Stepford Wives,1228980,895677
+Mystic River,1411296,1019831
+Raiders Of The Lost Ark,1155463,825998
+License To Kill,1278131,912263
+Man on Fire,1362411,1025972
+Diamonds are Forever,1192679,845797
+Scarface,1131710,777579
+White Noise,1408302,1034210
+Spider Man,1600835,1172487
+Being Human,1238855,885385
+Snatch,1111140,777791
+From Russia with Love,1217466,863660
+You Got Served,1289832,930944
+Batman Begins,1119568,787883
+Monty Python and the Holy Grail,1149771,785352
+Ray,2505292,1040463
+the Temple of Doom,1227186,883547
+The Machinist,1222000,872174
+Courage Under Fire,1199176,823852
+The Spy Who Loved Me,1300061,940331
+Birth,1687561,1155863
+Titanic,1142914,808475
+You Only Live Twice,1264604,938782
+The Sixth Sense,1259050,925498
+Mystic River,1500090,1040186
+The Return of the King,1235481,885366
+Smallville,1355206,824024
+Master and Commander,1015444,775030
+Catwoman,1198010,874675
+Monty Python and the Holy Grail,1188302,859439
+You Got Served,1184215,851851
+In Good Company,1505707,1154543
+Finding Neverland,1482993,1093511
+Diamonds are Forever,1143600,829125
+Spider Man 2,1239738,898585
+3000 Miles to Graceland,1235634,908790
+Home Alone 2,1264050,925173
+Bone Collector,1174361,838535
+The Lost Boys,1253115,891006
+Gone in 60 Seconds,1367549,1030135
+X2,1375773,1014158
+Star Wars,1277268,932682
+The Stepford Wives,1167548,846867
+Unleashed,1376612,1022948
+The Fast and the Furious,1355021,1028294
+the Temple of Doom,1198650,864182
+X2,1178215,889452
+Any Given Sunday,1051136,755688
+You Got Served,1080997,809162
+Sleepy Hollow,1078345,707458
+The Two Towers,1196223,893729
+White Chicks,1426687,1039915
+The Return of the King,969340,740089
+Oceans Eleven,958696,688537
+The terminal,1149286,817843
+Girl with a Pearl Earring,992050,754330
+Bone Collector,979645,703586
+The Aviator,1219460,875638
+GoldenEye,1105873,799047
+A True Underdog Story,2502799,2182269
+Are We There Yet,1115393,807375
+50 First Dates,1227565,868542
+The Matrix Reloaded,1217631,870704
+Vanilla Sky,980647,743029
+Training Day,1102043,826421
+The Two Towers,1222829,911724
+Amelie,1035776,726293
+Thunderball,1141117,786961
+Black Hawk Down,1271530,854376
+Bowling for Columbine,826965,570042
+The Usual Suspects,1017386,752889
+Vampire Effect,1449192,1057660
+From Russia with Love,1013860,754368
+The Princess Bride,1268326,923495
+Starsky Hutch,1352449,967588
+Ray,1156350,876930
+Octopussy,785773,567640
+Charlie and the Chocolate Factory,1208998,884797
+Snatch,1041094,725426
+Good Will Hunting,1105547,813644
+City Light,1145192,844711
+Elf,1247226,940771
+A Series of Unfortunate Events,2511908,2074718
+24 Hour Party People,901119,661239
+The Return of the King,939325,688942
+Shogun,878565,606743
+Hitch,1240219,896709
+Alexander,1010740,765143
+The Man with the Golden Gun,1058545,723946
+Hero,3054171,2325167
+Godsend,1108978,796067
+Black Hawk Down,1263027,859929
+The Lord of the Rings,1264322,909114
+The Two Towers,1274655,946780
+Any Given Sunday,1042256,766912
+Seven,2393406,1685519
+The Lord of the Rings,1186439,862905
+The Lost Boys,1051098,794698
+Proof of Life,999111,711449
+Oceans Twelve,886664,636550
+Moulin Rouge,1183490,871816
+A True Underdog Story,2475885,2128849
+Episode III,1136749,794744
+The Lord of the Rings,1188600,886649
+Scarface,1064702,750219
+A Series of Unfortunate Events,2246041,1964908
+American Beauty,929327,658390
+Live and Let Die,1230900,907439
+Million Dollar Baby,1119745,821191
+Birth,1492674,1061500
+The Life Aquatic,1477601,1029375
+Love Actually,1194385,869394
+The Village,1153580,849267
+Black Hawk Down,832140,624467
+The Return of the King,1188167,875035
+Intolerable Cruelty,1106664,813995
+Shogun,906087,613176
+Roman Holiday,1143395,821915
+Insomnia,1072841,759294
+Spiderman 2,1113132,797524
+The Mummy,1185243,835484
+Love the Hard Way,1289866,970277
+The Mask,1127193,838251
+X2,1354133,1009167
+X2,1185103,870146
+Blast From the Past,1162266,820864
+Proof of Life,1128800,824021
+Braveheart,1137159,803877
+8 Mile,944252,702009
+The Goonies,1183771,824645
+Forrest Gump,1148950,815103
+Mystic River,1353406,884026
+Charlie and the Chocolate Factory,1119833,844982
+The Mummy Returns,1219179,873020
+The Goonies,1204988,866608
+Assault on Precinct 13,1180297,868933
+50 First Dates,992427,707925
+Catwoman,1062116,781730
+For Your Eyes Only,1173916,915961
+Hero,3036899,2266199
+Spider Man 2,1315039,982841
+Spider Man 2,1118376,821398
+The terminal,1020530,716177
+The Machinist,1212386,886154
+Garden State,1360504,1038299
+All or Nothing,1212604,876203
+Batman Begins,1036180,733069
+Scarface,1072514,759808
+The Living Daylights,1094632,776334
+Million Dollar Baby,1169926,840186
+Braveheart,929074,669184
+Hide and Seek,1176951,850933
+Shogun,995571,705941
+Hitch,1301950,950068
+Spider Man 2,1182263,882203
+Raiders Of The Lost Ark,1104940,813000
+The Mummy Returns,1148439,740396
+Pretty Woman,1307008,952699
+Smallville,933316,656633
+Mystic River,1396022,1002729
+Alexander,1211870,789923
+Beautiful Boxer,986166,728034
+One Eight Seven,1189121,865816
+Lemony Snicket,1115224,770850
+Alone in the Dark,1371383,983234
+Men In Black,1174557,903655
+Ray,1467796,1053956
+You Only Live Twice,1219865,920671
+The Lord of the Rings,3896576,888217
+Blast From the Past,1248666,872180
+Philadelphia,1127463,797751
+Godsend,1055070,731801
+I Heart Huckabees,1406415,1155034
+A Space Odyssey,2151019,1924058
+A Series of Unfortunate Events,3920888,3625061
+Are We There Yet,1237405,887790
+Spider Man 2,975271,723267
+Home Alone,1305672,869564
+Forrest Gump,763190,556138
+The Machinist,1023560,767048
+The Lord of the Rings,1094027,802789
+Scarface,1039321,720711
+The Fast and the Furious,1108386,834999
+Zoolander,1043631,752601
+The Mummy,1309395,857223
+Season 3,1208044,859337
+Birth,1599822,1136033
+Scarface,1147710,815646
+Snatch,1030786,737322
+Catch Me If You Can,1211664,870797
+The Mummy,1097014,788780
+Racing Stripes,967530,648661
+The Return of the King,936629,702770
+Coach Carter,1021571,720528
+Aliens,1360390,1043157
+Vampire Effect,1204792,909297
+Jurassic Park,1100117,786701
+Kingdom of Heaven,922167,668758
+The Return of the King,898227,686254
+Seven,2006501,1437291
+24 Hour Party People,1138206,796286
+Courage Under Fire,1065358,714513
+Alexander,1204862,881901
+Million Dollar Baby,936269,694180
+Meet the Fockers,1070128,794260
+Hero,3152698,2290267
+The Goonies,1360566,970458
+The Mummy Returns,1181210,844459
+Breakfast at Tiffany,959338,723183
+Before Sunrise,971786,622987
+Miss Congeniality 2,875206,649753
+City Light,1223595,879246
+Godsend,1081401,690030
+Bicentennial Man,792388,586815
+Kingdom Of Heaven,978439,720926
+Smallville,1059427,754481
+On Her Majestys Secret Service,1030052,775042
+8 Mile,824398,603574
+Bad Company,1206232,825252
+The Lord of the Rings,1183740,786360
+National Treasure,1255805,958047
+Catwoman,1265012,908269
+American History X,1299809,943433
+Star Wars,1601998,1162113
+Charlie and the Chocolate Factory,983027,760669
+The Royal Tenenbaums,1030178,673699
+Elektra,1252982,909953
+Almost Famous,1283906,946219
+Dogma,1141487,798594
+The Lord of the Rings,1236166,808507
+Racing Stripes,1060570,713363
+The Far Side of the World,1160087,832317
+Charlie and the Chocolate Factory,1092594,785319
+Being Human,1205402,700138
+The Matrix Revolutions,995676,743122
+American History X,1031624,771394
+Star Wars,1069202,796552
+Spider Man 2,1015439,755959
+Birth,1529338,1029059
+Star Wars,1295091,943846
+Revenge of the Sith,1230095,883775
+Cube Zero,6308380,1038673
+Bride And Prejudice,1279268,940122
+Shakespeare in Love,731219,523957
+You Got Served,1041201,802066
+X2,1322896,942192
+Training Day,967604,690199
+Crouching Tiger Hidden Dragon,1035306,720998
+Goldfinger,1081234,757199
+The Ring 2,1224260,896160
+You Got Served,1085217,798412
+Being Human,1007161,740073
+Bowling for Columbine,1100356,787797
+You Only Live Twice,1330379,995298
+Aviator,1369559,1013568
+Black Hawk Down,1173139,857272
+Snatch,1020415,721020
+The Mask,1184588,863150
+The Man with the Golden Gun,1058140,786835
+Proof of Life,1233973,836081
+Men In Black,1262396,991708
+Hostage,1363845,1008694
+A View to a Kill,2413145,2100942
+The Return of the King,1047523,785585
+Rush Hour 2,1002662,715255
+24 Hour Party People,1092807,805397
+Kingdom Of Heaven,1190162,879916
+Indiana Jones,1257365,815897
+Miss Congeniality 2,1158359,839582
+Roman Holiday,1146063,836104
+Million Dollar Baby,1221035,894828
+Lord of the Rings,1025171,770667
+Licence to Kill,1049074,750141
+The World is Not Enough,1184894,883084
+Scarface,1064802,758256
+Indiana Jones,1132443,798944
+Godsend,1098975,796891
+24 Hour Party People,1154826,865710
+8 Mile,1130408,818629
+Finding Neverland,1303809,976279
+Wonder Boys,1151003,841115
+Black Hawk Down,1178728,857717
+Crouching Tiger Hidden Dragon,1062980,771754
+Before Sunrise,1133468,810414
+Cinderella Man,1416532,1050803
+When Harry Met Sally,1051055,743321
+Indiana Jones,999674,733994
+Alexander,1295120,949252
+Home Alone 2,1043843,775159
+Oceans Twelve,1199139,768425
+A Nightmare On Elm Street,2528132,2190839
+The Man with the Golden Gun,1255629,960839
+Eyes Wide Shut,1192475,865035
+Ocean Twelve,1200648,860521
+Almost Famous,1146761,847267
+The Royal Tenenbaums,996193,711803
+The Lord of the Rings,1171770,851326
+A View to a Kill,2405033,2081718
+Die Another Day,1212982,886228
+Alien,2487396,1815874
+Vanilla Sky,1287306,942173
+Ghost World,1281409,953469
+Lost in New York,1290808,968171
+Cinderella Man,1279909,957665
+A Space Odyssey,2380810,2083480
+Being Human,1068217,772335
+A Nightmare On Elm Street,2356721,2091647
+The Goonies,1247148,920565
+The Two Towers,1235394,902729
+Alexander,1317722,978932
+Meet the Fockers,1186205,866995
+Dumb and Dumber,1220152,895884
+Seven,2348202,1695914
+Before Sunrise,1173893,836279
+Monty Python and the Holy Grail,1148915,808713
+The Mummy,1230017,898763
+The Two Towers,1141668,849542
+From Russia with Love,1070390,770555
+Alien,2361156,1735325
+Hide and Seek,1243800,912965
+The Lord of the Rings,1308384,936919
+Master and Commander,1254783,940926
+Almost Famous,1175131,864799
+Gone with the Wind,1252932,906145
+Snatch,1131796,813701
+The New World,1075221,794792
+Indiana Jones,1146664,828442
+Men In Black,1371957,1049144
+The Sixth Sense,1230018,877814
+You Got Served,1282305,965824
+You Only Live Twice,1239255,907478
+Men In Black,1339238,1014211
+The New World,1181000,859009
+The Far Side of the World,1185694,891886
+Spiderman 2,1078408,769049
+Dr. No,1556393,1214837
+The Polar Express,1114753,824128
+Elektra,1374180,959512
+the Temple of Doom,1211723,873823
+The Polar Express,1184926,867267
+Any Given Sunday,1250451,830362
+Eurotrip,1199582,858379
+Revenge of the Sith,1093120,795941
+Hero,3177575,2368029
+Amelie,1156039,832128
+The Village,1156997,855432
+Hitch,1293034,938794
+Alien3,1098648,775929
+The New World,1215583,892423
+Walk in the Clouds,1328519,974812
+Men in Black II,1417717,1077959
+Moulin Rouge,1400662,1021738
+A True Underdog Story,2484348,2148449
+The Fifth Element,1132383,819539
+Assault on Precinct 13,1138748,821959
+Hitch,1321723,949359
+Assault on Precinct 13,1168152,838565
+Coach Carter,1136402,823784
+Before Sunrise,1213903,883565
+Eyes Wide Shut,1194175,866593
+Vanilla Sky,1094815,827256
+The World is Not Enough,1247493,923759
+American History X,1169636,850502
+Home Alone 2,1179170,885012
+Alexander,1191422,880276
+The Sound of Music,1270701,936251
+The Royal Tenenbaums,1186159,862873
+The Life Aquatic,1251376,915038
+The Polar Express,1167047,865122
+The World is Not Enough,1223733,909530
+50 First Dates,1126250,819458
+Coach Carter,1145126,816611
+Star Wars,1214149,901538
+Troy,920240,666684
+Die Another Day,1115300,786566
+Godsend,1057425,743936
+The Polar Express,1198141,868297
+The Two Towers,1261964,923411
+The Lost Boys,1233866,865411
+Zoolander,1149635,806733
+Traffic,1159021,813649
+The Mummy,942702,697804
+Blast From the Past,1131367,806574
+Moulin Rouge,1284242,971627
+The World is Not Enough,1221784,890725
+Episode I,1350662,1012242
+Lost in New York,1369497,1029607
+Traffic,1064793,789150
+3000 Miles to Graceland,1231488,910743
+When Harry Met Sally,1146199,738209
+Scarface,993185,716523
+Hide and Seek,1194853,850668
+Along Came Polly,1214718,770381
+Die Another Day,1273631,887139
+American History X,1086287,822036
+Season 3,1148578,848264
+The terminal,1114826,803503
+Pretty Woman,1241213,902983
+8 Mile,1093353,796681
+Dodgeball,1098938,780715
+Spider Man 2,1283999,980495
+The Life Aquatic,960428,711053
+External Sunshine of the Spotless Mind,1194488,870308
+Being Human,1047774,764453
+Love Actually,1296173,957604
+The Life Aquatic,1256176,920261
+Jurassic Park,1025601,766181
+The Matrix Reloaded,1036289,757574
+Love Actually,1069129,833443
+Catch Me If You Can,1245887,944719
+Eternal Sunshine of the Spotless Mind,1119784,834182
+A Space Odyssey,2461145,2137834
+Oceans Eleven,1064588,750865
+Insomnia,822621,582551
+Finding Neverland,1509172,1034287
+A Space Odyssey,2438317,2029033
+Bad Company,1357622,886786
+the Temple of Doom,947631,696084
+About A Boy,1109470,795430
+Walk in the Clouds,1304472,989252
+Revenge of the Sith,1128724,816670
+Goldfinger,1093125,695172
+Miss Congeniality 2,946444,672528
+Batman Begins,1052606,775790
+24 Hour Party People,1030623,750271
+Blast From the Past,1174243,838491
+Walk in the Clouds,1316610,1011814
+From Russia with Love,1137064,795070
+24 Hour Party People,1187030,854609
+Rush Hour 2,914901,652722
+Bicentennial Man,1059521,749708
+The Lord of the Rings,1162161,858426
+Garden State,1471456,1071119
+The Spy Who Loved Me,1101022,731011
+Along Came Polly,1103717,804422
+Revenge of the Sith,1170659,875499
+The Spy Who Loved Me,972289,737811
+Dr. No,1412693,1113740
+Son Of The Mask,1239369,920822
+Million Dollar Baby,1158008,844778
+Bowling for Columbine,1111739,778635
+Batman Begins,1163753,824833
+Hostage,1260071,832516
+the Last Crusade,1313150,896694
+Kingdom of Heaven,1240393,910626
+The Polar Express,1174031,859466
+Lost in New York,1251470,834758
+Batman Begins,1061409,765226
+Revenge of the Sith,1371066,850344
+Lemony Snicket,1140579,812042
+Live and Let Die,1201231,896580
+Eyes Wide Shut,1228658,881306
+Star Wars,1053534,774804
+Son Of The Mask,985117,743124
+Raiders Of The Lost Ark,1206509,841717
+Diamonds are Forever,1257335,921797
+Bride And Prejudice,1081533,807909
+Revenge of the Sith,1070830,775000
+Indiana Jones,1067183,782981
+Hero,3178817,2490475
+Smallville,1117455,781060
+Breakfast at Tiffany,908627,630030
+Hide and Seek,897885,692239
+Bad Company,1435459,1027197
+Starsky Hutch,3676140,3369424
+50 First Dates,1295460,895740
+Good Will Hunting,1250677,908542
+Garden State,1319486,967944
+Finding Neverland,1482258,1097620
+Philadelphia,1111291,789210
+Alien,2458787,1848920
+Ray,1486601,1069028
+Hide and Seek,1265332,941290
+The Phantom of the Opera,1277932,888341
+50 First Dates,1223361,903894
+Master and Commander,2142158,1822112
+The Princess Bride,1298419,936836
+Being Human,1238142,895857
+Jurassic Park,1300915,906913
+External Sunshine of the Spotless Mind,1265914,851940
+Lord of the Rings,1205804,863770
+American Beauty,1188324,856286
+Alien3,1169920,798101
+Being Human,1176776,810861
+In Good Company,1427263,1109143
+50 First Dates,1190626,856309
+Bowling for Columbine,1165620,813306
+The Incredibles,1255208,911102
+Million Dollar Baby,1246439,865004
+Walk in the Clouds,1342652,998441
+A Nightmare On Elm Street,2481245,2141772
+Bride and Prejudice,1287377,938171
+Live and Let Die,1428065,965749
+Hero,3257332,2515699
+Octopussy,1145254,809805
+The Matrix Reloaded,1198366,875683
+Racing Stripes,1072842,779156
+Love Actually,1275417,939089
+Bowling for Columbine,1092234,770445
+The Machinist,1204080,866559
+Almost Famous,1107279,834742
+The Hunted,1200060,868736
+Crouching Tiger Hidden Dragon,1230295,883492
+Assault on Precinct 13,999525,726155
+The Mummy Returns,1145667,831260
+Sleepy Hollow,1013022,693706
+Thunderball,1108185,803483
+Black Hawk Down,1117505,819570
+Man on Fire,1343312,1038649
+Vanilla Sky,928704,689517
+Dr. No,1473472,1154944
+The Far Side of the World,1017122,758706
+About A Boy,924072,596679
+Dumb and Dumber,1268307,924488
+Training Day,975307,726556
+Spider Man 2,1072804,834800
+Walk in the Clouds,1086128,841963
+Coach Carter,910496,691557
+Monty Python and the Holy Grail,887808,602480
+Miss Congeniality 2,928847,701794
+The Goonies,911727,680754
+Birth,1608730,1118445
+The Matrix,1256378,912473
+The Mummy Returns,1022059,712739
+Racing Stripes,1033730,754869
+Mystic River,1284839,928153
+Philadelphia,1145854,817666
+Are We There Yet,1129702,819345
+Catch Me If You Can,1220360,914471
+Hostage,1157047,769856
+Episode I,1294234,971229
+Hero,3006804,2361675
+Finding Neverland,1427191,1061686
+Aliens,1695856,1240436
+Goldfinger,1144267,798740
+One Eight Seven,1393726,869419
+Pretty Woman,1305251,933374
+Training Day,1139136,823274
+Bone Collector,1119065,799898
+Son Of The Mask,1202618,891622
+Finding Neverland,1413318,1033233
+Hotel Rwanda,1496242,1084025
+The Lord of the Rings,1211004,862490
+The Hunted,1016338,731692
+Alien3,1082058,754678
+Pretty Woman,1386095,1016925
+Coach Carter,1056326,762907
+The Far Side of the World,1104481,820317
+the Last Crusade,1087218,812226
+Bone Collector,1024892,747015
+Braveheart,811897,575540
+3000 Miles to Graceland,1063065,820337
+Aviator,1264585,922037
+Jurassic Park,885455,651897
+The Phantom of the Opera,1051853,754278
+Good Will Hunting,1155206,830612
+The Life Aquatic,1182153,871064
+Seven,2280044,1619757
+Home Alone 2,1301849,957911
+Son Of The Mask,1207736,903911
+Men In Black,1395006,1083114
+Episode I,1160477,867284
+The Polar Express,1068506,777174
+Being Human,973366,683241
+When Harry Met Sally,1044093,747057
+Jurassic Park,933501,700659
+The Lord of the Rings,1142528,842838
+Ghost World,1341532,965391
+A View to a Kill,2458834,2153884
+Season 3,982189,699609
+Jurassic Park,1171245,758079
+Bride And Prejudice,1192785,898524
+The World is Not Enough,1105515,829006
+The Far Side of the World,988449,742136
+Hellboy,1303354,971365
+Spiderman 2,1090432,772526
+All or Nothing,1143740,864175
+Spider Man 2,1297154,963679
+The Goonies,1210922,887059
+American Beauty,1220786,882388
+Lost in New York,1280180,968317
+Goldfinger,1116499,802737
+24 Hour Party People,1099649,789681
+Starsky Hutch,1370756,1005823
+Revenge of the Sith,5455197,5167069
+Snatch,1115269,800671
+Bride And Prejudice,1328729,1016723
+From Russia with Love,1007248,731297
+Daredevil,1319730,829458
+Black Hawk Down,1184155,866112
+You Got Served,1317412,972641
+Home Alone 2,1251524,837592
+Elektra,1266802,888964
+License To Kill,901494,665234
+Goldfinger,1121380,783735
+About A Boy,1059288,755154
+Terminator 2,1056195,730722
+The Return of the King,1150601,840845
+Traffic,1062887,758465
+American History X,999161,759927
+A Beautiful Mind,2418522,2081519
+8 Mile,967692,701996
+Bicentennial Man,1021910,719277
+In Good Company,1330699,1037915
+GoldenEye,1036471,726424
+You Only Live Twice,944190,732476
+Moulin Rouge,1188198,911975
+A Space Odyssey,2369920,2005289
+Crouching Tiger Hidden Dragon,792161,596794
+Ghost World,1451791,1077529
+The Two Towers,1210608,835986
+Mystic River,1219041,877507
+Intolerable Cruelty,1224373,887605
+Any Given Sunday,1018722,738181
+Revenge of the Sith,964608,715936
+In Good Company,1436652,1107687
+The Far Side of the World,1158205,852367
+Bone Collector,1102283,800960
+Being Human,1095229,808245
+Hotel Rwanda,1101659,859967
+Training Day,950451,708792
+The Polar Express,998076,756846
+Good Will Hunting,1187451,860625
+Assault on Precinct 13,1057122,797989
+Ray,1208778,888678
+The Phantom of the Opera,1139253,844464
+Ocean Twelve,958588,723110
+Kingdom Of Heaven,895641,680036
+Are We There Yet,1107085,849388
+The Mask,1014221,784354
+Courage Under Fire,888428,643354
+Hero,3121937,2346413
+Thunderball,1191924,824226
+The Return of the King,916278,679549
+Vanilla Sky,989824,744899
+For Your Eyes Only,1107727,821297
+Unleashed,1364556,1008251
+Bowling for Columbine,1187032,799159
+The Lord of the Rings,964299,726049
+Forrest Gump,1108199,805836
+8 Mile,1096217,661541
+Cinderella Man,1063485,815408
+Season 3,976413,742288
+Men In Black,1075721,871779
+X2,1295580,844381
+Saving Private Ryan,1038993,764876
+The Two Towers,1216816,896557
+Robots,1161614,852154
+Licence to Kill,1012686,603764
+The Goonies,1032030,773578
+Oceans Twelve,961955,697374
+The Lost Boys,975418,746128
+Million Dollar Baby,1120267,824874
+Starsky Hutch,1149221,858418
+The Far Side of the World,1004885,759099
+Cold Mountain,844794,632929
+Alien3,933981,603434
+Pretty Woman,1141220,867207
+Miss Congeniality 2,1231018,797933
+The Fast and the Furious,914143,703441
+Elektra,1181499,876384
+Die Another Day,1111035,823370
+The terminal,1168734,861721
+A Clockwork Orange,2397597,2102602
+Vampire Effect,1213004,932220
+The Two Towers,1160986,769543
+Hitch,1151631,842041
+Boiler Room,1098329,769717
+Men in Black II,1287118,923545
+Mystic River,1239493,899272
+Star Wars,1097958,854560
+The Lord of the Rings,1290229,895902
+GoldenEye,1111792,780745
+Amelie,1134687,795792
+All Over Me,1232447,942947
+Jurassic Park,979004,713076
+Godsend,954208,680654
+Spider Man 2,1217271,892437
+Ghost World,1378510,1036731
+Finding Neverland,1247268,928826
+Being Human,1006603,741118
+Live and Let Die,1155876,894014
+Alexander,1390835,1030299
+You Only Live Twice,1238195,923582
+Bride And Prejudice,1232808,916605
+Scarface,1109687,784755
+Requiem For a Dream,1160120,840317
+Bowling for Columbine,1085250,767112
+50 First Dates,1125806,803633
+Hotel Rwanda,1368610,998306
+The Lord of the Rings,1197673,870421
+Good Will Hunting,1238315,895658
+The Return of the King,1149285,842609
+A True Underdog Story,2517383,2191261
+The Fast and the Furious,1467359,1013669
+Oceans Eleven,1181230,849356
+Lord of the Rings,1168114,852236
+Good Will Hunting,1258798,906392
+Spider Man 2,1291232,952075
+Birth,1624241,1119030
+About A Boy,1198662,825865
+Bowling for Columbine,1166013,823548
+Star Wars,1193761,888449
+Mystic River,1365659,1000054
+The Two Towers,1258979,932488
+Blast From the Past,1230042,895903
+Spiderman 2,1096560,774554
+Proof of Life,1208232,844715
+X2,1335508,960600
+The Life Aquatic,1251425,913525
+Jurassic Park,1123437,809728
+Racing Stripes,1179101,843987
+Moonraker,1095186,781372
+Intolerable Cruelty,1470734,1074156
+The Lord of the Rings,1245039,929005
+Insomnia,1136582,831731
+National Treasure,1443478,1079924
+Finding Neverland,1422269,1043649
+Home Alone,1414373,1030619
+50 First Dates,1090058,816212
+The Spy Who Loved Me,1228288,900669
+Training Day,1219936,894095
+Coach Carter,1129000,824877
+Goldfinger,1083069,765861
+Titanic,1106363,782646
+A Nightmare On Elm Street,2420539,2074735
+Training Day,1219752,866053
+The Lost Boys,1224987,884963
+A Series of Unfortunate Events,2482305,2119699
+American History X,1166996,857078
+Notting Hill,1120825,774760
+The Stepford Wives,1201636,872469
+Proof of Life,1202129,857612
+The Matrix Reloaded,1222765,872841
+The Goonies,1232821,905778
+Racing Stripes,1174417,834317
+In Good Company,1388578,1063186
+In Good Company,1488794,1140152
+Oceans Eleven,979066,696486
+Love the Hard Way,1307487,980077
+Walk in the Clouds,1270099,941742
+Lost in New York,1394872,1046133
+Raiders Of The Lost Ark,994496,717770
+Diamonds are Forever,1200870,866421
+Braveheart,1076955,755300
+Meet the Fockers,1193232,883829
+Spiderman 2,1078780,782903
+Before Sunrise,1069850,792926
+Ray,1356345,1002206
+Master and Commander,1331240,893132
+The Mummy,1254866,928342
+Before Sunrise,992112,730746
+Insomnia,1102430,771497
+Hero,3017791,2222829
+Ocean Twelve,1233715,871804
+Training Day,1133617,833322
+Catwoman,1090372,774333
+The Phantom of the Opera,1178801,774414
+Bad Company,7198698,6929705
+Miss Congeniality 2,1183111,876547
+Girl with a Pearl Earring,1068457,814854
+Charlie and the Chocolate Factory,1221803,927833
+Good Will Hunting,1104291,792441
+Meet the Fockers,1042993,754767
+Hellboy,1456785,1028334
+24 Hour Party People,1191611,842234
+Men In Black,1441712,1102100
+Good Will Hunting,1090082,810183
+The Princess Bride,1173036,866144
+The World is Not Enough,1281051,959993
+Troy,1133640,811714
+Finding Neverland,1442075,1027831
+Son Of The Mask,1259552,933234
+Home Alone 2,1208991,887569
+Gone in 60 Seconds,1306234,984208
+Home Alone 2,1249588,933854
+Snatch,1002418,718277
+The Lord of the Rings,1153059,860714
+Hero,3390563,2516215
+Alien,2577216,1923133
+Home Alone,1515863,1100244
+Monty Python and the Holy Grail,1055651,744030
+Garden State,1310501,986299
+Goldfinger,1118829,722350
+Men in Black II,1313822,1039329
+Spiderman 2,981481,697125
+Hide and Seek,1137229,787105
+Revenge of the Sith,1161883,845187
+Are We There Yet,1207445,911226
+The Lord of the Rings,1164048,869684
+Star Wars,1231566,898798
+The Hunted,1239202,870431
+The Matrix Revolutions,1264292,907642
+Being Human,1126148,825449
+Cube Zero,1364239,986747
+Good Will Hunting,1199680,891062
+Anna and the King,1202001,911679
+The Godfather,1385473,909509
+Blast From the Past,1041020,774454
+Eyes Wide Shut,1204515,828772
+GoldenEye,1125201,791586
+About A Boy,1173562,818840
+Wonder Boys,964778,692625
+Aliens,1460635,1081693
+The Usual Suspects,1214345,856716
+Elf,1321027,971135
+License To Kill,1156811,855382
+A True Underdog Story,2439127,2121332
+Cinderella Man,1356371,1026113
+A Space Odyssey,2329786,2032243
+The New World,1097406,818360
+A View to a Kill,2337475,2050601
+The Lord of the Rings,1241235,927864
+Spider Man 2,1236394,905314
+Rush Hour 2,1078241,782932
+Episode I,1296802,975563
+Ride With the Devil,1115129,821831
+Rush Hour 2,1074948,785185
+Hitch,1264289,905544
+A Clockwork Orange,2412443,2099737
+Catch Me If You Can,1260735,933390
+Birth,1669628,1118389
+Beautiful Boxer,1190700,841987
+Alien3,1031387,749015
+Garden State,1389113,1010297
+The Living Daylights,1255763,928115
+Diamonds are Forever,1174287,829967
+Braveheart,1138225,792639
+Eyes Wide Shut,1230042,861078
+The Return of the King,1241506,897461
+The Two Towers,1206457,870769
+You Got Served,1240379,902450
+Ray,1400202,1033897
+The Two Towers,1200683,874126
+Miss Congeniality 2,1149059,839117
+The Two Towers,1137365,842178
+Alien,2498170,1843182
+Almost Famous,1207589,877777
+The Far Side of the World,1089037,811844
+Collateral,1226793,890230
+Saving Private Ryan,1313306,884634
+Traffic,1219438,876344
+The Far Side of the World,1142592,857303
+The Hunted,1212084,898692
+From Russia with Love,1113622,796427
+Rush Hour 2,1025416,755206
+Racing Stripes,1199085,887088
+Bad Company,1405894,1026254
+The Return of the King,1215282,906350
+A View to a Kill,2312044,2042657
+Miss Congeniality 2,1180351,883683
+Oceans Twelve,1288466,814244
+Vampire Effect,1374108,1008235
+A Nightmare On Elm Street,2344144,2046953
+Finding Neverland,1356764,1006005
+The Two Towers,1249211,910837
+Shogun,1133011,806264
+The Fast and the Furious,1284372,957692
+Hellboy,1404940,1020907
+Mystic River,1459818,1065000
+Training Day,1224257,888308
+The Mummy Returns,1219512,881569
+Bowling for Columbine,1100442,797876
+Spider Man 2,1266647,953019
+Amelie,942561,648677
+External Sunshine of the Spotless Mind,5964789,681520
+The Matrix Revolutions,1131792,802418
+Forrest Gump,835320,594501
+Coach Carter,1168981,845873
+Oceans Twelve,1120271,805944
+Oceans Eleven,1105635,780183
+The Royal Tenenbaums,1005935,767138
+Almost Famous,1092898,785548
+Dumb and Dumber,1023028,748937
+I Heart Huckabees,1412056,1182352
+The Lord of the Rings,1183174,850007
+Dumb and Dumber,1185693,854639
+The Lord of the Rings,1036189,781483
+Monty Python and the Holy Grail,1042772,724569
+Catwoman,1296330,939536
+Men In Black,1462757,1110918
+Before Sunrise,885217,652040
+All Over Me,1251186,934481
+Bone Collector,987607,708604
+Black Hawk Down,923982,671403
+Dr. No,1304940,1006378
+Cinderella Man,1370687,1029795
+Monty Python and the Holy Grail,1006889,709608
+License To Kill,1002124,744283
+Before Sunrise,1064080,770645
+The Village,1018537,761731
+I Heart Huckabees,1323485,1050036
+The Stepford Wives,1020748,683279
+The Return of the King,931287,691192
+Men In Black,1167170,923376
+A Clockwork Orange,2135145,1897139
+Cube Zero,1336043,997760
+Starship Troopers,944410,663500
+Diamonds are Forever,898308,649624
+A True Underdog Story,2529747,2206401
+Garden State,1348010,978275
+Racing Stripes,892961,648187
+Breakfast at Tiffany,1069040,770960
+Dumb and Dumber,1079215,811408
+The Stepford Wives,1222088,889080
+Black Hawk Down,985489,734211
+The Return of the King,1081488,812450
+Notting Hill,982699,683641
+Proof of Life,1273881,827177
+Racing Stripes,911810,619624
+Vampire Effect,1394113,973932
+Miss Congeniality 2,948025,721166
+Oceans Eleven,868239,627342
+The Majestic,985722,627986
+Training Day,1102167,688663
+Elektra,1195207,909755
+Monty Python and the Holy Grail,883410,632046
+American History X,1245117,925423
+Hide and Seek,1220372,895444
+The terminal,1117846,831659
+The Two Towers,1095423,794512
+Shrek,1321137,942886
+License To Kill,1041873,761683
+The Polar Express,1120379,822873
+From Russia with Love,913503,643264
+Gone with the Wind,1214185,887040
+Spider Man 2,1283753,920036
+Racing Stripes,1183996,869236
+City Light,1203938,870686
+Eternal Sunshine of the Spotless Mind,1174339,825468
+Proof of Life,1215509,870936
+You Got Served,1333506,964047
+City Light,1258483,900850
+Smallville,1172033,826465
+Miss Congeniality 2,1231536,884966
+Raiders Of The Lost Ark,1189772,844301
+National Treasure,1428254,1045397
+8 Mile,1126694,819090
+Meet the Fockers,1240863,900517
+Diamonds are Forever,1225011,878217
+The Lost Boys,1236044,905746
+GoldenEye,1119194,802005
+American Beauty,1199108,869135
+Dumb and Dumber,1219925,902160
+Bride And Prejudice,1339654,1012890
+Notting Hill,1171495,794506
+GoldenEye,954303,728234
+Oceans Eleven,887896,648069
+Hitch,1210964,891545
+Love Actually,987217,748712
+Catch Me If You Can,940791,720324
+Pretty Woman,1347040,937777
+Kingdom Of Heaven,1117170,832501
+Bourne Identity,797488,582771
+Runaway Bride,950248,694098
+Garden State,1390809,1034481
+Starsky Hutch,1227098,898473
+Elektra,1334827,964767
+Miss Congeniality 2,1175992,849589
+Bride And Prejudice,1207040,907116
+Barbershop,1117130,794929
+Eternal Sunshine of the Spotless Mind,1188567,808472
+Alexander,1195537,881811
+All Over Me,1189648,882767
+Hero,3055604,2297796
+Men in Black II,1585383,1102668
+Million Dollar Baby,1044307,727632
+Godsend,1080135,773837
+Million Dollar Baby,1092266,781995
+Garden State,1342462,1004493
+Good Will Hunting,1185572,859329
+Lost in New York,1216980,920031
+Bride And Prejudice,1110702,830177
+The Matrix Reloaded,1028714,769129
+The Lord of the Rings,998398,730877
+Any Given Sunday,934262,687842
+the Last Crusade,1204939,880925
+Snatch,1031782,737247
+The Return of the King,1121266,823071
+Braveheart,945591,672331
+Alien,2401791,1779070
+Ghost World,1370420,1013144
+Pretty Woman,1213526,891829
+Love Actually,1263066,940355
+From Russia with Love,978353,691548
+Hitch,1223806,897078
+A True Underdog Story,2285259,2006389
+Are We There Yet,1130903,823408
+Kingdom Of Heaven,1173099,854420
+Catch Me If You Can,1269627,958609
+The Lord of the Rings,1224730,866858
+Driven,1091430,785469
+Blast From the Past,1055723,760265
+Star Wars,1222552,887734
+Hitch,1345732,968473
+American History X,1185570,870193
+Finding Neverland,1379734,1030921
+Bone Collector,1148930,834017
+Love Actually,1274664,956140
+Driven,951769,657696
+Lost in New York,1272832,951719
+The Stepford Wives,945223,706608
+Blade Runner,1270507,922553
+Starsky Hutch,1255964,928004
+Bowling for Columbine,995135,717705
+the Last Crusade,1070377,781478
+Moulin Rouge,1213243,935552
+Jurassic Park,1042645,775456
+Star Wars,1190669,893048
+Eyes Wide Shut,946942,681228
+A Space Odyssey,2286397,2030459
+The Machinist,1178193,866041
+You Got Served,1258083,927602
+City Light,1154371,853848
+Elektra,1350913,959127
+Dumb and Dumber,1283434,939972
+Smallville,1239291,890507
+Indiana Jones,1061510,757421
+Season 3,969305,730479
+Alien3,1206976,773845
+Master and Commander,1160797,857286
+The Living Daylights,1278488,930908
+Master and Commander,1293149,954979
+The terminal,1177071,864692
+Proof of Life,6897482,6607424
+The Royal Tenenbaums,1326146,960401
+Shall We Dance,1051257,746487
+External Sunshine of the Spotless Mind,969914,685840
+License To Kill,1161741,736339
+Amelie,947325,700603
+The World is Not Enough,1039536,689813
+The Stepford Wives,935572,698436
+Walk in the Clouds,1158818,911764
+Traffic,1196982,897627
+The Royal Tenenbaums,1139781,786246
+Kingdom Of Heaven,1048537,755593
+Home Alone 2,1059714,791785
+The terminal,1197938,873580
+Oceans Eleven,965955,684417
+The Hunted,1131472,844191
+The Stepford Wives,1209335,891534
+The Living Daylights,1113742,771344
+Oceans Eleven,915502,633460
+GoldenEye,918921,650986
+Black Hawk Down,1150885,854267
+Kingdom Of Heaven,1053693,765692
+Starsky Hutch,1158157,804875
+Lost in New York,1434033,987665
+Elf,1399506,1007490
+Garden State,1339288,985740
+Snatch,1105028,778311
+Forrest Gump,1118294,787751
+Star Wars Episode 3,914243,686460
+Alien,2444212,1799632
+The Living Daylights,1256752,892182
+Dogma,1124146,789388
+Die Another Day,1250771,796663
+Ray,1308399,965937
+Alexander,1371908,1007605
+Aliens,1631343,1126078
+Alien3,879700,646715
+The Polar Express,1094106,698037
+White Noise,1280424,921850
+Hide and Seek,992957,733654
+Black Hawk Down,1150317,854599
+Love Actually,1204850,895379
+City Light,987529,696658
+Hero,3148792,2352274
+Daredevil,1097358,773314
+The Stepford Wives,1053978,778621
+Insomnia,1287516,824052
+Charlie and the Chocolate Factory,1124329,846479
+Season 3,1120561,815347
+Blast From the Past,1032667,747745
+The Return of the King,1049513,785860
+You Only Live Twice,1231070,891493
+Lost in New York,1316727,989455
+Saving Private Ryan,993004,731146
+50 First Dates,1038423,769761
+Hotel Rwanda,1212084,895795
+Almost Famous,1006477,768341
+Hero,3272440,2422035
+Love the Hard Way,1329937,981065
+GoldenEye,1109181,790114
+Racing Stripes,1159585,841377
+Hero,3310619,2428440
+National Treasure,1380419,1004098
+Sleepy Hollow,1098986,773690
+Live and Let Die,1304859,986517
+External Sunshine of the Spotless Mind,1103199,773672
+Intolerable Cruelty,1390551,1024120
+Love Actually,1285857,963641
+Mystic River,1259169,931687
+The Fast and the Furious,1134958,850188
+The Stepford Wives,1204157,885554
+The Phantom of the Opera,1181066,868144
+Bad Company,1300488,970750
+Snatch,1094029,771624
+Forrest Gump,1083023,763899
+The Man with the Golden Gun,1147113,800235
+Smallville,1109622,783787
+Smallville,1107291,784169
+Pretty Woman,1290161,940523
+The Goonies,1096203,797004
+Live and Let Die,1223836,936791
+Traffic,1150284,824078
+Revenge of the Sith,1090179,805371
+Crouching Tiger Hidden Dragon,1071480,756728
+The Hunted,993599,728039
+Racing Stripes,1046325,768050
+Walk in the Clouds,1118602,868214
+The Mask,1040317,758423
+All or Nothing,1197550,889454
+the Last Crusade,1073198,813017
+The Machinist,1175687,847441
+Roman Holiday,1024224,752749
+Amelie,1005050,717753
+Cinderella Man,1408906,966008
+The New World,1217692,901568
+Jurassic Park,1044572,758808
+Before Sunrise,1293371,818026
+Season 3,1247111,884482
+The Return of the King,1144567,813312
+The Living Daylights,1197414,856696
+Notting Hill,1096965,795771
+Coach Carter,1125473,807860
+Notting Hill,1059952,765120
+For Your Eyes Only,1199604,898551
+Vampire Effect,1432981,1054797
+The Life Aquatic,1035418,773194
+The Matrix Reloaded,1151010,743152
+Scarface,1055165,749498
+Racing Stripes,950396,708030
+Charlie and the Chocolate Factory,1006183,758196
+Raiders Of The Lost Ark,1073100,796177
+Indiana Jones,1117601,780847
+The Matrix Revolutions,1061450,809134
+Bicentennial Man,1057443,736805
+License To Kill,1160981,808397
+Traffic,1219223,902610
+The Return of the King,1262734,863903
+For Your Eyes Only,1176228,867917
+The Lord of the Rings,1220738,871182
+Black Hawk Down,1108542,806839
+The Lord of the Rings,972061,730746
+Goldfinger,1041240,725401
+Moulin Rouge,1304089,951519
+Traffic,1228455,872387
+The Goonies,1248639,834263
+Meet the Fockers,963323,725357
+Son Of The Mask,892414,656460
+Alien,2212005,1679989
+The Polar Express,1247329,915224
+Batman Begins,923454,692329
+City Light,965794,723218
+X2,1059353,788491
+Lord of the Rings,897928,670093
+Monty Python and the Holy Grail,813599,589165
+Spider Man 2,991010,778155
+Pretty Woman,1136176,857946
+Mystic River,1282686,955915
+GoldenEye,1030454,719517
+Spider Man 2,1002672,785585
+Smallville,807660,593597
+Tomorrow Never Dies,1137146,798704
+the Temple of Doom,992646,711017
+You Got Served,1161142,882625
+Breakfast at Tiffany,1087096,804942
+Scarface,892273,643487
+Godsend,914924,630661
+Licence to Kill,892112,562135
+When Harry Met Sally,1034073,755348
+Seven,2115710,1446168
+The Lord of the Rings,1369773,898204
+The Mummy,920669,692682
+Moulin Rouge,1056660,808776
+Gone in 60 Seconds,1164157,888994
+Coach Carter,1006539,628895
+Son Of The Mask,1202300,851517
+Philadelphia,1117858,771089
+Smallville,1173866,835104
+The Machinist,1174122,837659
+The Royal Tenenbaums,1180528,866251
+The Mummy Returns,961820,712129
+Hotel Rwanda,1017612,796017
+Unleashed,1095027,821944
+Alien,2489063,1811373
+Miss Congeniality 2,1198739,873219
+Traffic,1363011,965439
+The Living Daylights,925809,693740
+Spider Man 2,1247548,936111
+Hotel Rwanda,1296153,969725
+Men in Black II,1424804,1043263
+Godsend,812781,598342
+3000 Miles to Graceland,938868,724635
+Before Sunrise,923002,675030
+When Harry Met Sally,1083454,784191
+Bowling for Columbine,1114089,786688
+Season 3,871499,657031
+The Phantom of the Opera,1028298,757373
+Bourne Identity,1038916,792095
+The Mummy,915292,694140
+A Clockwork Orange,2214122,1922024
+Son Of The Mask,1055246,777466
+A True Underdog Story,2086759,1867907
+Elf,1046513,782569
+Hostage,1051943,791706
+Moulin Rouge,1085113,782410
+Blast From the Past,1167752,830648
+Braveheart,1054233,756971
+Jurassic Park,1056604,684524
+Die Another Day,1058446,766362
+City Light,1103080,783185
+Bad Company,1334627,996901
+Philadelphia,1110416,817794
+The Two Towers,1187051,836073
+3000 Miles to Graceland,967459,713175
+The Stepford Wives,864401,672039
+The Return of the King,1016232,654871
+Oceans Twelve,1087248,780077
+From Russia with Love,1125132,783589
+Hero,2981960,2350683
+Spider Man 2,1248001,912945
+Driven,914763,588874
+Dogma,1051366,683118
+The Return of the King,925758,709970
+Shall We Dance,988708,742760
+American Beauty,1014436,743376
+Tomorrow Never Dies,1205633,884726
+National Treasure,1425590,1077227
+Hotel Rwanda,1469765,1011288
+A True Underdog Story,2267833,1986844
+Amelie,876397,591713
+Eurotrip,1252174,806318
+You Got Served,973199,733438
+Episode I,1021387,717566
+Forrest Gump,837270,584034
+3000 Miles to Graceland,1144963,757522
+Requiem For a Dream,914335,690213
+You Got Served,886934,681224
+Crouching Tiger Hidden Dragon,860126,644295
+The Lost Boys,1067814,729627
+Son Of The Mask,893549,675013
+Oceans Eleven,1041919,723599
+Intolerable Cruelty,1213087,900821
+Alexander,1328002,975955
+Aviator,1225655,905595
+The Return of the King,1142573,834525
+The Matrix,1143430,822962
+Catwoman,1264528,929588
+Troy,1004744,713321
+The Princess Bride,1225873,917836
+Live and Let Die,1286741,962293
+Elf,1209813,893200
+Rush Hour 2,1049746,793462
+A Clockwork Orange,2190380,1954875
+Hellboy,1122640,813780
+A Space Odyssey,2618138,2278667
+3000 Miles to Graceland,1103683,812340
+American History X,981613,724144
+Assault on Precinct 13,965834,653329
+Men in Black II,1034781,827895
+Dogma,941945,663135
+Racing Stripes,1089459,711254
+The Polar Express,1081387,787956
+Dogma,808445,580276
+For Your Eyes Only,997979,720865
+Goldfinger,1060677,655715
+Elf,1264157,903817
+Troy,912266,659591
+Vampire Effect,1154706,838594
+Roman Holiday,1178503,853816
+The Life Aquatic,1195719,899510
+A View to a Kill,2135984,1892437
+Scarface,848766,622266
+Forrest Gump,877677,604145
+The Life Aquatic,1196338,879540
+Birth,1625834,1141786
+Before Sunrise,1212049,856949
+Garden State,1397133,1040359
+About A Boy,1240672,768846
+Scarface,1101871,777248
+The Matrix,1182471,878389
+Braveheart,1010321,727990
+Crouching Tiger Hidden Dragon,1075663,743683
+Alien,2396889,1779196
+Along Came Polly,1299420,867037
+The terminal,1157084,835395
+Amelie,946536,679577
+Garden State,1371889,1027069
+Vampire Effect,1301177,952720
+Oceans Twelve,850236,607600
+The Village,875139,649930
+Before Sunrise,922422,649609
+Unleashed,1023332,790490
+The World is Not Enough,1027822,740059
+The terminal,1285918,918751
+White Chicks,1172776,878906
+Ray,1228039,923502
+Men in Black II,1139230,907226
+Episode I,1030494,774568
+Catwoman,1366749,903118
+Training Day,1194831,884696
+Crouching Tiger Hidden Dragon,1129225,807653
+Before Sunrise,1021102,738836
+Ghost World,1124938,839127
+Shall We Dance,1105878,816594
+Love the Hard Way,1038399,807980
+The Matrix,956256,705057
+Season 3,1115189,813535
+Any Given Sunday,1145464,828641
+The Stepford Wives,1023358,750837
+Alien3,1043579,727487
+Starsky Hutch,1370638,966171
+Man on Fire,1177222,922877
+Hide and Seek,1107090,736778
+The Two Towers,1070261,801887
+Alexander,1218778,878308
+Courage Under Fire,1046827,765978
+National Treasure,1303452,978075
+Racing Stripes,1081632,764150
+Eternal Sunshine of the Spotless Mind,991641,724363
+Dumb and Dumber,1130041,767513
+You Only Live Twice,1280956,946138
+A True Underdog Story,2440370,2120638
+Elf,1302814,951423
+Shakespeare in Love,921615,621638
+Eyes Wide Shut,951074,683859
+City Light,891275,661821
+When Harry Met Sally,1051688,749825
+The Fifth Element,955632,724173
+X2,1144745,859597
